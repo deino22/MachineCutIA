@@ -1,0 +1,28 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+50	50	Tournament(8)	PMX	0.4	Insert	0.3		266.52	4.830072463224543
+50	50	Tournament(8)	PMX	0.4	Insert	0.2		265.0	6.711184694225007
+50	50	Tournament(8)	PMX	0.4	Insert	0.4		265.8	3.6386810797320495
+50	50	Tournament(8)	PMX	0.4	Insert	0.1		266.86	2.0494877408757537
+50	50	Tournament(8)	PMX	0.4	Insert	0.6		265.74	4.790866309969418
+50	50	Tournament(8)	PMX	0.4	Insert	0.8		265.82	3.6969717337301926
+50	50	Tournament(8)	PMX	0.4	Insert	0.5		265.72	3.8576676891614192
+50	50	Tournament(8)	PMX	0.4	Insert	0.7		265.96	3.8312400081435785
+50	50	Tournament(8)	PMX	0.4	Insert	0.9		265.58	4.690799505414828
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.1		266.54	1.8784035775093693
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.2		265.76	3.7393047482118917
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.3		266.68	1.7485994395515505
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.4		266.32	3.546491223730857
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.5		265.42	4.854235264179107
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.6		265.44	4.854523663553406
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.7		266.1	1.769180601295413
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.8		266.1	1.8681541692269394
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.9		266.66	2.131759836379323
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.1		265.88	3.739732610762436
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.2		266.32	3.7759237280432445
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.3		266.6	1.8220867158288594
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.4		266.72	2.4169402144033274
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.5		265.56	3.7156964353940425
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.6		266.56	2.0703622871372067
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.7		266.32	1.8701871564097523
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.8		266.06	1.9432961688841983
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.9		266.54	1.7459667808981931

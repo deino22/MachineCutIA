@@ -1,0 +1,28 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+50	25	Tournament(6)	PMX	0.2	Insert	0.2		283.16	5.6687211961782
+50	25	Tournament(6)	PMX	0.2	Insert	0.4		283.66	5.945115642273077
+50	25	Tournament(6)	PMX	0.2	Insert	0.1		283.14	6.196805628709039
+50	25	Tournament(6)	PMX	0.2	Insert	0.3		282.18	6.713240648151978
+50	25	Tournament(6)	PMX	0.2	Insert	0.5		282.36	6.7520663503848946
+50	25	Tournament(6)	PMX	0.2	Insert	0.6		283.98	4.949707062039127
+50	25	Tournament(6)	PMX	0.2	Insert	0.7		284.48	4.290640977756122
+50	25	Tournament(6)	PMX	0.2	Insert	0.8		283.64	5.806065793633413
+50	25	Tournament(6)	PMX	0.2	Swap Mutation	0.1		282.24	6.342113212486831
+50	25	Tournament(6)	PMX	0.2	Swap Mutation	0.3		283.38	6.105374681377053
+50	25	Tournament(6)	PMX	0.2	Swap Mutation	0.2		283.44	5.752077885425406
+50	25	Tournament(6)	PMX	0.2	Insert	0.9		281.86	6.216140281557362
+50	25	Tournament(6)	PMX	0.2	Swap Mutation	0.4		283.96	5.114528326248668
+50	25	Tournament(6)	PMX	0.2	Swap Mutation	0.6		283.4	5.7723478758647255
+50	25	Tournament(6)	PMX	0.2	Swap Mutation	0.5		283.18	5.28276442783511
+50	25	Tournament(6)	PMX	0.2	Swap Mutation	0.7		282.12	7.024642339649756
+50	25	Tournament(6)	PMX	0.2	Swap Mutation	0.9		284.48	4.437296474205889
+50	25	Tournament(6)	PMX	0.2	Scramble Mutation	0.2		283.32	6.610416023216694
+50	25	Tournament(6)	PMX	0.2	Swap Mutation	0.8		283.3	5.748912940721925
+50	25	Tournament(6)	PMX	0.2	Scramble Mutation	0.1		282.82	6.692353845994697
+50	25	Tournament(6)	PMX	0.2	Scramble Mutation	0.6		282.54	6.672960362537756
+50	25	Tournament(6)	PMX	0.2	Scramble Mutation	0.5		283.92	5.187831917092149
+50	25	Tournament(6)	PMX	0.2	Scramble Mutation	0.3		283.48	5.223944869540642
+50	25	Tournament(6)	PMX	0.2	Scramble Mutation	0.4		283.26	5.8747255255033
+50	25	Tournament(6)	PMX	0.2	Scramble Mutation	0.8		283.14	5.748077939624691
+50	25	Tournament(6)	PMX	0.2	Scramble Mutation	0.9		283.44	5.95368793270188
+50	25	Tournament(6)	PMX	0.2	Scramble Mutation	0.7		282.38	6.65399128343282

@@ -1,0 +1,28 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+50	50	Tournament(6)	PMX	0.4	Insert	0.2		371.48	8.405331641285782
+50	50	Tournament(6)	PMX	0.4	Insert	0.3		371.68	9.306857686673844
+50	50	Tournament(6)	PMX	0.4	Insert	0.1		372.18	8.587642284119664
+50	50	Tournament(6)	PMX	0.4	Insert	0.4		371.1	8.750428560933459
+50	50	Tournament(6)	PMX	0.4	Insert	0.5		371.5	7.910120100226039
+50	50	Tournament(6)	PMX	0.4	Insert	0.6		373.44	7.823451923543724
+50	50	Tournament(6)	PMX	0.4	Insert	0.7		373.3	9.362157870918434
+50	50	Tournament(6)	PMX	0.4	Insert	0.8		371.12	9.392848343287564
+50	50	Tournament(6)	PMX	0.4	Swap Mutation	0.1		372.36	8.84705600750894
+50	50	Tournament(6)	PMX	0.4	Swap Mutation	0.2		371.24	8.043780205848494
+50	50	Tournament(6)	PMX	0.4	Insert	0.9		369.56	10.768769660457968
+50	50	Tournament(6)	PMX	0.4	Swap Mutation	0.3		372.04	7.974860500347326
+50	50	Tournament(6)	PMX	0.4	Swap Mutation	0.6		374.68	6.975499982080137
+50	50	Tournament(6)	PMX	0.4	Swap Mutation	0.7		372.58	9.933961948789616
+50	50	Tournament(6)	PMX	0.4	Swap Mutation	0.4		371.52	7.097154359318947
+50	50	Tournament(6)	PMX	0.4	Swap Mutation	0.5		369.62	10.310945640434731
+50	50	Tournament(6)	PMX	0.4	Scramble Mutation	0.1		372.58	7.67095821915359
+50	50	Tournament(6)	PMX	0.4	Swap Mutation	0.8		370.1	7.332803011127465
+50	50	Tournament(6)	PMX	0.4	Swap Mutation	0.9		372.56	7.214319094689395
+50	50	Tournament(6)	PMX	0.4	Scramble Mutation	0.2		372.16	9.57571929413138
+50	50	Tournament(6)	PMX	0.4	Scramble Mutation	0.4		373.6	8.915155635209068
+50	50	Tournament(6)	PMX	0.4	Scramble Mutation	0.3		372.66	7.298246364709815
+50	50	Tournament(6)	PMX	0.4	Scramble Mutation	0.5		371.88	8.907614720002204
+50	50	Tournament(6)	PMX	0.4	Scramble Mutation	0.6		371.32	8.72568621943283
+50	50	Tournament(6)	PMX	0.4	Scramble Mutation	0.8		371.1	8.823264701911645
+50	50	Tournament(6)	PMX	0.4	Scramble Mutation	0.7		369.2	9.75499871860576
+50	50	Tournament(6)	PMX	0.4	Scramble Mutation	0.9		371.8	9.834632682515398

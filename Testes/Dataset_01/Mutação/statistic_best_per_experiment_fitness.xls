@@ -1,0 +1,28 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:	Seed:
+50	50	Tournament(8)	PMX	0.4	Insert	0.3		244.0	45
+50	50	Tournament(8)	PMX	0.4	Insert	0.2		243.0	5
+50	50	Tournament(8)	PMX	0.4	Insert	0.4		243.0	47
+50	50	Tournament(8)	PMX	0.4	Insert	0.1		263.0	33
+50	50	Tournament(8)	PMX	0.4	Insert	0.5		243.0	19
+50	50	Tournament(8)	PMX	0.4	Insert	0.6		244.0	25
+50	50	Tournament(8)	PMX	0.4	Insert	0.8		244.0	5
+50	50	Tournament(8)	PMX	0.4	Insert	0.7		244.0	42
+50	50	Tournament(8)	PMX	0.4	Insert	0.9		245.0	38
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.1		263.0	7
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.2		243.0	42
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.3		263.0	14
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.4		245.0	2
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.5		243.0	22
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.6		244.0	10
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.7		263.0	25
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.8		263.0	3
+50	50	Tournament(8)	PMX	0.4	Swap Mutation	0.9		263.0	11
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.1		245.0	1
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.2		244.0	22
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.3		263.0	9
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.4		263.0	23
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.5		244.0	39
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.6		263.0	4
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.7		263.0	14
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.8		263.0	9
+50	50	Tournament(8)	PMX	0.4	Scramble Mutation	0.9		263.0	33

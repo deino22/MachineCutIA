@@ -1,0 +1,105 @@
+
+
+Population size:50
+Max generations:50
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.3
+Fitness: 337.0
+Cuts: 121
+White Spaces: 34
+Material size (area): 182
+Solution:
+[gggbbbmmmXXaaaalleeeepccc-]
+[gggbbbmmmXXaaaalleeeepccc-]
+[gggdddmmmXXaaaalleeeepccc-]
+[wwxxddmmmyyaaaallZZTTTooo-]
+[wwxxKLLNvyyaaaallZZTTTooo-]
+[PPWWqqqqqqJaaaahhhss--ooo-]
+[--------------------------]
+
+
+Population size:50
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.3
+Fitness: 354.0
+Cuts: 127
+White Spaces: 38
+Material size (area): 189
+Solution:
+[dddddNoommmaaaabblleeeeccc-]
+[dddddPoommmaaaabblleeeeccc-]
+[TTTrwwoommmaaaa--lleeeeccc-]
+[TTTrwwRRmmmaaaaXXlluyyggg--]
+[hhhhJJzznxxaaaaXXlluyyggg--]
+[WWWWLLzznxxaaaaXqqqqqqggg--]
+[---------------------------]
+
+
+Population size:50
+Max generations:50
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.3
+Fitness: 357.0
+Cuts: 132
+White Spaces: 36
+Material size (area): 189
+Solution:
+[ggmmmllXXtbbbbaaaajOOnZooo-]
+[ggmmmllXXtbbbbaaaacccwZooo-]
+[ggmmmllXXreeeeaaaacccwwooo-]
+[pummmllJJreeeeaaaacccddddd-]
+[pqqqqqqILLeeeeaaaaTTTddddd-]
+[pKKPPhhhhss---aaaaTTTWWWWW-]
+[---------------------------]
+
+
+Population size:50
+Max generations:50
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.3
+Fitness: 352.0
+Cuts: 133
+White Spaces: 37
+Material size (area): 182
+Solution:
+[TTTrIIJveeeaaaagggpmmllUn-]
+[TTTrxxcceeeaaaagggpmmllUn-]
+[PPRRxxcceeeaaaagggpmmllUu-]
+[bbbbKKcooo-aaaaSSZZmmllUu-]
+[bbbbWWWooo-aaaawwZZzddddd-]
+[hhqqqqqqoo-aaaaww--zddddd-]
+[--------------------------]
+
+
+Population size:50
+Max generations:50
+Selection:Tournament(10)
+Recombination:PMX
+Recombination prob.: 0.6
+Mutation:Insert
+Mutation prob.: 0.3
+Fitness: 356.0
+Cuts: 141
+White Spaces: 33
+Material size (area): 182
+Solution:
+[WWWWbbccceeeeUzzpaaaaxxXX-]
+[gggubbccceeeeUzllaaaaxxXX-]
+[gggNNrccveeeeUMllaaaaTmmm-]
+[gggtooo-vOOwwUQllaaaaTmmm-]
+[nZZtooohhhhwwPPllaadddmmm-]
+[nZLLoooJJIIqqqqqqaadddmmm-]
+[--------------------------]

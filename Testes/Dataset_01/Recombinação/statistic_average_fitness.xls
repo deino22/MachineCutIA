@@ -1,0 +1,28 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob,:	Mutation:	Mutation prob,:		Average:	StdDev:
+50	50	Tournament(8)	PMX	0,4	Insert	0,3		269,52	3,899948718
+50	50	Tournament(8)		0,3	Insert	0,3		270,26	6,716576509
+50	50	Tournament(8)		0,2	Insert	0,3		270,58	5,892673417
+50	50	Tournament(8)		0,1	Insert	0,3		270,66	6,623020459
+50	50	Tournament(8)		0,5	Insert	0,3		271	6,511528238
+50	50	Tournament(8)		0,7	Insert	0,3		271	6,587867637
+50	50	Tournament(8)		0,6	Insert	0,3		271,02	7,529913678
+50	50	Tournament(8)		0,8	Insert	0,3		271,04	6,446580489
+50	50	Tournament(8)		0,9	Insert	0,3		271,18	6,317246236
+50	50	Tournament(8)	Cycle	0,1	Insert	0,3		271,28	6,359371038
+50	50	Tournament(8)		0,2	Insert	0,3		271,52	7,831321728
+50	50	Tournament(8)		0,3	Insert	0,3		271,56	6,65179675
+50	50	Tournament(8)		0,4	Insert	0,3		271,58	6,328001264
+50	50	Tournament(8)		0,5	Insert	0,3		271,74	6,775868948
+50	50	Tournament(8)		0,6	Insert	0,3		271,84	7,674268695
+50	50	Tournament(8)		0,7	Insert	0,3		271,94	7,905466463
+50	50	Tournament(8)		0,8	Insert	0,3		272	6,219324722
+50	50	Tournament(8)		0,9	Insert	0,3		272,3	7,92779919
+50	50	Tournament(8)	One-Point	0,1	Insert	0,3		272,34	7,55939151
+50	50	Tournament(8)		0,2	Insert	0,3		272,6	8,019975062
+50	50	Tournament(8)		0,4	Insert	0,3		272,7	8,188406438
+50	50	Tournament(8)		0,3	Insert	0,3		272,82	8,603929335
+50	50	Tournament(8)		0,5	Insert	0,3		272,98	8,702850108
+50	50	Tournament(8)		0,6	Insert	0,3		273,06	10,04272871
+50	50	Tournament(8)		0,7	Insert	0,3		273,42	8,910869767
+50	50	Tournament(8)		0,8	Insert	0,3		273,44	8,800363629
+50	50	Tournament(8)		0,9	Insert	0,3		273,88	9,092062472

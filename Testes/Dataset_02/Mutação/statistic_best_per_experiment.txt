@@ -1,0 +1,648 @@
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Insert
+Mutation prob.: 0.2
+Fitness: 265.0
+Cuts: 123
+White Spaces: 22
+Material size (area): 120
+Solution:
+[lluueooWcih-]
+[lluueooSkih-]
+[ttYyyzzvvqq-]
+[ttJyyzzvvqq-]
+[OOssrrgjInn-]
+[ppssrrgjZnn-]
+[ppTTfdbXXxx-]
+[mmaRRdbwwxx-]
+[mmaVVG-wwUU-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Insert
+Mutation prob.: 0.4
+Fitness: 266.0
+Cuts: 124
+White Spaces: 22
+Material size (area): 120
+Solution:
+[ssdallyycgb-]
+[ssdallyycgb-]
+[vvYYwwSSktt-]
+[vvoowwzzktt-]
+[rrooppzziTT-]
+[ermmppxxXuu-]
+[ejmmVVxnnuu-]
+[qqOOHRRnnhf-]
+[qqGNNUQQ-hf-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Insert
+Mutation prob.: 0.1
+Fitness: 264.0
+Cuts: 122
+White Spaces: 22
+Material size (area): 120
+Solution:
+[vvgooinncZh-]
+[vvgooinncZh-]
+[wwqqalleKrr-]
+[wwqqallpprr-]
+[zzuudWWppxx-]
+[zzuudssNNxx-]
+[GttmmssyyOO-]
+[jttmmfJyyUk-]
+[jVYYRRTT-XX-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Insert
+Mutation prob.: 0.3
+Fitness: 266.0
+Cuts: 123
+White Spaces: 23
+Material size (area): 120
+Solution:
+[yyzzvvUUkgc-]
+[yyzzvvrrkgc-]
+[ttqqWWrrjJi-]
+[ttqquubdjTi-]
+[ppZxxubdann-]
+[ppZxxOOSSnn-]
+[wwNNssPPfVV-]
+[ewmmssooll--]
+[eRRYQQooll--]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Insert
+Mutation prob.: 0.7
+Fitness: 268.0
+Cuts: 125
+White Spaces: 23
+Material size (area): 120
+Solution:
+[ppvvzzVVZja-]
+[ppvvzzPPkja-]
+[wwbnnfGqqtt-]
+[wwbnnfeqqyy-]
+[TTmmNNoocyy-]
+[RRmSlloocdg-]
+[rrixxlXXIdK-]
+[rrixxuussOO-]
+[YYHWWuuss---]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Insert
+Mutation prob.: 0.5
+Fitness: 265.0
+Cuts: 124
+White Spaces: 21
+Material size (area): 120
+Solution:
+[yyvvfppwwbj-]
+[yyvvfppwkbj-]
+[QQNNzznnkPP-]
+[llmmzznncxx-]
+[llmmXXTTcxx-]
+[ssrroohadSS-]
+[ssrroohYdtt-]
+[qqJiuugOOte-]
+[qqRRuugGVVe-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Insert
+Mutation prob.: 0.6
+Fitness: 266.0
+Cuts: 124
+White Spaces: 22
+Material size (area): 120
+Solution:
+[ttnnjiwwJab-]
+[ttnnjiwwcab-]
+[vvmmOOllcNN-]
+[vvmmuullfpp-]
+[ZooxxuhXXpp-]
+[ZooxxqqeKTT-]
+[WWyydqqeUUI-]
+[k-yydsszzrr-]
+[kPSQQsszzrr-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Insert
+Mutation prob.: 0.8
+Fitness: 265.0
+Cuts: 123
+White Spaces: 22
+Material size (area): 120
+Solution:
+[eWuuqqdkIjc-]
+[ppuuqqdYYjc-]
+[ppgNNOOyyi--]
+[llooZmmyyQQ-]
+[llooZmmfGxx-]
+[ssvvttzzhxx-]
+[ssvvttzzKww-]
+[UUrrnnbTTww-]
+[RRrrnnbXXSS-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Swap Mutation
+Mutation prob.: 0.3
+Fitness: 267.0
+Cuts: 124
+White Spaces: 23
+Material size (area): 120
+Solution:
+[wwtteVoojcb-]
+[wwtte-oojyy-]
+[OOzznnuuZyy-]
+[ppzznnuukSS-]
+[pprrPPNNkmm-]
+[xxrrssXXJmm-]
+[xxiRRsTTfgd-]
+[lliUKvvqqYd-]
+[llaQQvvqq---]
+[--a---------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Swap Mutation
+Mutation prob.: 0.1
+Fitness: 265.0
+Cuts: 124
+White Spaces: 21
+Material size (area): 120
+Solution:
+[qqvvwwkcdge-]
+[qqvvwwkyyge-]
+[ttxxNNJyyuu-]
+[ttxxinnrruu-]
+[UUmminnrrYY-]
+[zzmmQllXXss-]
+[zzVppllSSss-]
+[hZjpoobTTOO-]
+[hZjRRobPPa--]
+[---------a--]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Swap Mutation
+Mutation prob.: 0.2
+Fitness: 265.0
+Cuts: 124
+White Spaces: 21
+Material size (area): 120
+Solution:
+[fssgttvvZbh-]
+[fssgttvvkbh-]
+[WWPPqqeSKnn-]
+[RYppqqeycnn-]
+[VVppNQQycUU-]
+[rroommuuaww-]
+[rroommuuaww-]
+[jdxxzzXXill-]
+[jdxxzzOOill-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Insert
+Mutation prob.: 0.9
+Fitness: 267.0
+Cuts: 125
+White Spaces: 22
+Material size (area): 120
+Solution:
+[mmvvllzzIia-]
+[mmvvllzYYia-]
+[ttfnnZgwwss-]
+[ttfnnZgyyss-]
+[jqquuppyyoo-]
+[jqquupprroo-]
+[XXPPVVdrkbc-]
+[TTWWOQdxxec-]
+[NNHUURRxxe--]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Swap Mutation
+Mutation prob.: 0.6
+Fitness: 266.0
+Cuts: 125
+White Spaces: 21
+Material size (area): 120
+Solution:
+[kdjgyyrrcia-]
+[kdjgyyrrcia-]
+[wwuussxxbmm-]
+[wwuussxxbmm-]
+[zzvvttqqIVV-]
+[zzvvttqnnRR-]
+[NNhSSWWnnGf-]
+[ooYppllPeXX-]
+[ooJpplQQeUU-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Swap Mutation
+Mutation prob.: 0.4
+Fitness: 267.0
+Cuts: 125
+White Spaces: 22
+Material size (area): 120
+Solution:
+[NNnnrrdUkbZ-]
+[mmnnrrdSSbZ-]
+[mmVVvvgjGzz-]
+[qqxxvvgjizz-]
+[qqxxIOQQKRR-]
+[ToofhttucWW-]
+[eoofhttyyss-]
+[llwwYppyyss-]
+[llwwappPP---]
+[----a-------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Swap Mutation
+Mutation prob.: 0.5
+Fitness: 267.0
+Cuts: 126
+White Spaces: 21
+Material size (area): 120
+Solution:
+[ppllvvgcibj-]
+[ppllvvgSibj-]
+[rrmmnnUUfNN-]
+[rrmmyyQQfzz-]
+[uuTTyyRRZzz-]
+[uuGwwssXXqq-]
+[Voowwssttqq-]
+[dooHhkxxtWW-]
+[dPP-hkxxaOO-]
+[--------a---]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Swap Mutation
+Mutation prob.: 0.7
+Fitness: 264.0
+Cuts: 122
+White Spaces: 22
+Material size (area): 120
+Solution:
+[ppyyzzPYYib-]
+[ppyyzzuukib-]
+[vvttGjuuKqq-]
+[vvttRRSSgqq-]
+[TQoowwllgss-]
+[mmoowwllcss-]
+[mmfhaNNXXOO-]
+[ZxxharrnneU-]
+[ZxxWWrrnne--]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Scramble Mutation
+Mutation prob.: 0.2
+Fitness: 265.0
+Cuts: 124
+White Spaces: 21
+Material size (area): 120
+Solution:
+[Okjrrwwyyha-]
+[RRjrrwwyyha-]
+[mmboonnIiTT-]
+[mmboonnXKss-]
+[fZllxxzzJss-]
+[fZllxxzzeSS-]
+[ttqquuNNeUU-]
+[ttqquppvvgc-]
+[VVPQQppvvgc-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Swap Mutation
+Mutation prob.: 0.9
+Fitness: 266.0
+Cuts: 123
+White Spaces: 23
+Material size (area): 120
+Solution:
+[byyttXnndeg-]
+[byyttRRndeg-]
+[vvVVUUxxfss-]
+[vvuuppxxfsk-]
+[WWuuppmmajk-]
+[oohSllmmKjc-]
+[ooQQllZYYPc-]
+[iwwrrzzHqq--]
+[iwwrrzzOqq--]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Swap Mutation
+Mutation prob.: 0.8
+Fitness: 268.0
+Cuts: 125
+White Spaces: 23
+Material size (area): 120
+Solution:
+[wwhbmmqqIfa-]
+[wwhbmmqnnfa-]
+[ZllOYYdnnVV-]
+[ZllippdSevv-]
+[TTxxppuuevv-]
+[zzxQoouugtc-]
+[zzRRooyygtk-]
+[ssrrWWyyjXX-]
+[ssrrPPGJj---]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Scramble Mutation
+Mutation prob.: 0.1
+Fitness: 265.0
+Cuts: 122
+White Spaces: 23
+Material size (area): 120
+Solution:
+[wwllppuubKf-]
+[wwllppuubzz-]
+[ttihTYYsszz-]
+[ttehXQQssHd-]
+[PPnnrrqqcUd-]
+[oonnrrqqcmm-]
+[oogxxOSSjmm-]
+[kRRxxyyvvWW-]
+[kaNN-yyvv---]
+[-a----------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Scramble Mutation
+Mutation prob.: 0.5
+Fitness: 267.0
+Cuts: 126
+White Spaces: 21
+Material size (area): 120
+Solution:
+[fqqOnnmmkba-]
+[fqqRRnmmkba-]
+[rruuttZghoo-]
+[rruuttZghoo-]
+[WWIxxwwzzvv-]
+[UUdxxwwSSvv-]
+[VVdiPPjTcXX-]
+[ssJYlleyypp-]
+[ssQQlleyypp-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Scramble Mutation
+Mutation prob.: 0.6
+Fitness: 266.0
+Cuts: 125
+White Spaces: 21
+Material size (area): 120
+Solution:
+[ZooahkJgjfb-]
+[ZooahkXXjfb-]
+[uurrmmvvHPP-]
+[uurrmmvvipp-]
+[OORReTSYipp-]
+[xxwweWWqcnn-]
+[xxwwVQQqKnn-]
+[ttzzsslldyy-]
+[ttzzsslldyy-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Scramble Mutation
+Mutation prob.: 0.4
+Fitness: 267.0
+Cuts: 126
+White Spaces: 21
+Material size (area): 120
+Solution:
+[ppsswwSSjif-]
+[ppsswwWejif-]
+[tthlluuebPP-]
+[tthlluuvcOk-]
+[xxVnnoovcRR-]
+[xxJnnoogHaZ-]
+[NNrrzzXXIaZ-]
+[mmrrzzyydqq-]
+[mmTYQQyydqq-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Scramble Mutation
+Mutation prob.: 0.3
+Fitness: 269.0
+Cuts: 127
+White Spaces: 22
+Material size (area): 120
+Solution:
+[gppieyynnaZ-]
+[gppieyynnak-]
+[qqllXXhuuzz-]
+[qqllQQhuuzz-]
+[PPOOrrVocTT-]
+[vvIdrrRRcss-]
+[vvjdWWNYKss-]
+[fxxJbmmttww-]
+[fSS-bmmttww-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Scramble Mutation
+Mutation prob.: 0.8
+Fitness: 268.0
+Cuts: 128
+White Spaces: 20
+Material size (area): 120
+Solution:
+[ooghzzrrcbk-]
+[ooghzzrrcbk-]
+[xxmmttZQQpp-]
+[xxmmttZSSyy-]
+[wwllvvuudyy-]
+[wwllvvuYdOO-]
+[UUGXXssifnn-]
+[qqPPRRsifne-]
+[qqaVVTTNNIe-]
+[--a---------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Scramble Mutation
+Mutation prob.: 0.9
+Fitness: 266.0
+Cuts: 125
+White Spaces: 21
+Material size (area): 120
+Solution:
+[qqOOUUvvKkc-]
+[qqNYoovvhkc-]
+[uuVVoosshzz-]
+[uuTnnxxSezz-]
+[rrjnnxxgett-]
+[rrjmmppyytt-]
+[PllmmppyyXX-]
+[GllHZwwbfda-]
+[RRWWZwwbfda-]
+[------------]
+
+
+Population size:50
+Max generations:25
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.2
+Mutation:Scramble Mutation
+Mutation prob.: 0.7
+Fitness: 264.0
+Cuts: 123
+White Spaces: 21
+Material size (area): 120
+Solution:
+[zzhmmttoofZ-]
+[zzhmmttoKfZ-]
+[ssdjxxiQQnn-]
+[ssdjxxiOOnn-]
+[vvppqqeYcww-]
+[vvppqqeRRww-]
+[uubTTNNgaUU-]
+[uubPPllyyrr-]
+[VVGWWllyyrr-]
+[------------]

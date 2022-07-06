@@ -1,0 +1,730 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob,:	Mutation:	Mutation prob,:		Average:	StdDev:
+50	100	Tournament(2)	PMX	0,6	Insert	0,1		265,6	3,136877428
+50	100	Tournament(2)	PMX	0,6	Insert	0,125		265,78	2,647942598
+50	100	Tournament(2)	PMX	0,6	Swap Mutation	0,1		265,86	2,529901184
+50	100	Tournament(2)	PMX	0,6	Insert	0,3		265,94	2,59545757
+50	100	Tournament(4)	PMX	0,6	Insert	0,1		266	3,417601498
+50	100	Tournament(4)	PMX	0,6	Insert	0,125		266,04	3,566286584
+50	100	Tournament(6)	PMX	0,6	Insert	0,125		266,06	3,540677901
+50	100	Tournament(6)	PMX	0,6	Insert	0,1		266,12	2,534876723
+50	100	Tournament(4)	PMX	0,6	Insert	0,3		266,12	3,54761892
+50	100	Tournament(4)	PMX	0,6	Swap Mutation	0,1		266,16	3,500628515
+50	100	Tournament(2)	PMX	0,6	Swap Mutation	0,3		266,26	2,198272049
+50	100	Tournament(2)	PMX	0,6	Swap Mutation	0,125		266,26	3,632134359
+50	100	Tournament(6)	PMX	0,6	Swap Mutation	0,1		266,26	3,167396407
+50	100	Tournament(6)	PMX	0,6	Insert	0,3		266,3	2,744084547
+50	100	Tournament(4)	PMX	0,6	Swap Mutation	0,3		266,3	3,54541958
+50	100	Tournament(4)	PMX	0,6	Swap Mutation	0,125		266,3	2,601922366
+50	100	Tournament(2)	PMX	0,6	Scramble Mutation	0,1		266,32	2,894408402
+50	100	Tournament(2)	PMX	0,6	Scramble Mutation	0,125		266,36	3,392698041
+50	100	Tournament(6)	PMX	0,6	Swap Mutation	0,125		266,36	3,321204601
+50	100	Tournament(6)	PMX	0,6	Swap Mutation	0,3		266,46	3,021324213
+50	100	Tournament(4)	PMX	0,6	Scramble Mutation	0,1		266,48	3,488495378
+50	100	Tournament(4)	PMX	0,6	Scramble Mutation	0,125		266,5	3,182766093
+50	100	Tournament(6)	PMX	0,6	Scramble Mutation	0,1		266,52	3,925506337
+50	100	Tournament(6)	PMX	0,6	Scramble Mutation	0,125		266,54	4,06059109
+50	100	Tournament(2)	PMX	0,6	Scramble Mutation	0,3		266,54	3,201312231
+50	100	Tournament(2)	PMX	0,7	Insert	0,1		266,54	3,112619476
+50	100	Tournament(4)	PMX	0,7	Insert	0,1		266,56	3,482298092
+50	100	Tournament(4)	PMX	0,6	Scramble Mutation	0,3		266,56	3,694103409
+50	100	Tournament(6)	PMX	0,6	Scramble Mutation	0,3		266,58	4,069840292
+50	100	Tournament(6)	PMX	0,7	Insert	0,1		266,6	3,2984845
+50	100	Tournament(2)	PMX	0,7	Insert	0,125		266,62	3,588258631
+50	100	Tournament(2)	PMX	0,7	Insert	0,3		266,64	3,593104507
+50	100	Tournament(6)	PMX	0,7	Insert	0,125		266,66	3,67483333
+50	100	Tournament(6)	PMX	0,7	Insert	0,3		266,66	2,943535289
+50	100	Tournament(4)	PMX	0,7	Insert	0,3		266,68	3,781216735
+50	100	Tournament(4)	PMX	0,7	Insert	0,125		266,7	3,238826948
+50	100	Tournament(6)	PMX	0,7	Swap Mutation	0,1		266,7	3,910242959
+50	100	Tournament(6)	PMX	0,7	Swap Mutation	0,125		266,7	4,05092582
+50	100	Tournament(4)	PMX	0,7	Swap Mutation	0,1		266,72	3,666278767
+50	100	Tournament(2)	PMX	0,7	Swap Mutation	0,125		266,72	4,005196624
+50	100	Tournament(2)	PMX	0,7	Swap Mutation	0,1		266,72	3,66081958
+50	100	Tournament(4)	PMX	0,7	Swap Mutation	0,125		266,72	3,493078871
+50	100	Tournament(6)	PMX	0,7	Swap Mutation	0,3		266,74	3,882318895
+50	100	Tournament(6)	PMX	0,7	Scramble Mutation	0,1		266,74	3,491761733
+50	100	Tournament(4)	PMX	0,7	Scramble Mutation	0,1		266,76	3,942385065
+50	100	Tournament(4)	PMX	0,7	Swap Mutation	0,3		266,76	3,73395233
+50	100	Tournament(2)	PMX	0,7	Scramble Mutation	0,1		266,78	4,304834492
+50	100	Tournament(2)	PMX	0,7	Swap Mutation	0,3		266,8	4,049691346
+50	100	Tournament(6)	PMX	0,7	Scramble Mutation	0,125		266,84	3,551675661
+50	100	Tournament(6)	PMX	0,7	Scramble Mutation	0,3		266,84	4,139371933
+50	100	Tournament(4)	PMX	0,7	Scramble Mutation	0,125		266,84	3,976732327
+50	100	Tournament(4)	PMX	0,7	Scramble Mutation	0,3		266,84	3,759574444
+50	100	Tournament(6)	PMX	0,8	Insert	0,1		266,86	3,736361867
+50	100	Tournament(6)	PMX	0,8	Insert	0,125		266,86	3,909015221
+50	100	Tournament(2)	PMX	0,7	Scramble Mutation	0,125		266,86	3,469927953
+50	100	Tournament(2)	PMX	0,7	Scramble Mutation	0,3		266,86	4,617401867
+50	100	Tournament(6)	PMX	0,8	Insert	0,3		266,88	4,033063352
+50	100	Tournament(4)	PMX	0,8	Insert	0,1		266,88	3,496512548
+50	100	Tournament(4)	PMX	0,8	Insert	0,125		266,92	4,14651661
+50	100	Tournament(6)	PMX	0,8	Swap Mutation	0,1		266,92	3,451608321
+50	100	Tournament(2)	PMX	0,8	Insert	0,1		266,92	4,453493011
+50	100	Tournament(6)	PMX	0,8	Swap Mutation	0,125		266,94	3,94669482
+50	100	Tournament(2)	PMX	0,8	Insert	0,125		266,96	3,594217578
+50	100	Tournament(6)	PMX	0,8	Swap Mutation	0,3		266,96	4,995838268
+50	100	Tournament(4)	PMX	0,8	Insert	0,3		266,96	4,586763565
+50	100	Tournament(4)	PMX	0,8	Swap Mutation	0,1		266,98	4,356558275
+50	100	Tournament(6)	PMX	0,8	Scramble Mutation	0,1		266,98	3,901230575
+50	100	Tournament(6)	PMX	0,8	Scramble Mutation	0,125		266,98	4,207089255
+50	100	Tournament(4)	PMX	0,8	Swap Mutation	0,125		266,98	3,722848372
+50	100	Tournament(4)	PMX	0,8	Swap Mutation	0,3		267	4,049691346
+50	100	Tournament(2)	PMX	0,8	Insert	0,3		267	4,816637832
+50	100	Tournament(2)	PMX	0,8	Swap Mutation	0,1		267	3
+50	100	Tournament(6)	PMX	0,8	Scramble Mutation	0,3		267,02	3,947100201
+50	100	Tournament(4)	PMX	0,8	Scramble Mutation	0,1		267,02	4,892811053
+50	100	Tournament(4)	PMX	0,8	Scramble Mutation	0,125		267,02	3,992442861
+50	100	Tournament(2)	PMX	0,8	Swap Mutation	0,125		267,02	4,384016423
+50	100	Tournament(2)	PMX	0,8	Swap Mutation	0,3		267,04	4,190274454
+50	100	Tournament(4)	PMX	0,8	Scramble Mutation	0,3		267,04	3,714619765
+50	100	Tournament(2)	PMX	0,8	Scramble Mutation	0,1		267,04	3,752119401
+50	100	Tournament(2)	PMX	0,8	Scramble Mutation	0,125		267,06	4,896570228
+50	100	Tournament(2)	PMX	0,8	Scramble Mutation	0,3		267,1	4,477722635
+100	100	Tournament(6)	PMX	0,6	Insert	0,1		267,1	3,817066937
+100	100	Tournament(6)	PMX	0,6	Insert	0,125		267,1	3,950949253
+100	100	Tournament(6)	PMX	0,6	Insert	0,3		267,14	4,284903733
+100	100	Tournament(6)	PMX	0,6	Swap Mutation	0,125		267,14	3,627726561
+100	100	Tournament(6)	PMX	0,6	Swap Mutation	0,1		267,14	4,354354143
+100	100	Tournament(6)	PMX	0,6	Scramble Mutation	0,1		267,16	3,88515122
+100	100	Tournament(6)	PMX	0,6	Swap Mutation	0,3		267,16	2,975634386
+100	100	Tournament(6)	PMX	0,6	Scramble Mutation	0,125		267,16	4,253751286
+100	100	Tournament(6)	PMX	0,6	Scramble Mutation	0,3		267,18	3,902255758
+100	100	Tournament(6)	PMX	0,7	Insert	0,1		267,18	3,713165765
+100	100	Tournament(6)	PMX	0,7	Insert	0,125		267,18	4,827794528
+100	100	Tournament(6)	PMX	0,7	Insert	0,3		267,18	4,131295196
+100	100	Tournament(6)	PMX	0,7	Swap Mutation	0,1		267,2	3,989987469
+100	100	Tournament(6)	PMX	0,7	Swap Mutation	0,125		267,2	4,720169488
+100	100	Tournament(6)	PMX	0,7	Swap Mutation	0,3		267,22	4,977107594
+100	100	Tournament(6)	PMX	0,7	Scramble Mutation	0,1		267,22	3,500228564
+100	100	Tournament(6)	PMX	0,7	Scramble Mutation	0,125		267,22	4,210890642
+100	100	Tournament(4)	PMX	0,6	Insert	0,1		267,24	4,701318964
+100	100	Tournament(6)	PMX	0,7	Scramble Mutation	0,3		267,24	4,785645202
+100	100	Tournament(6)	PMX	0,8	Insert	0,1		267,24	4,929746444
+100	100	Tournament(4)	PMX	0,6	Insert	0,125		267,26	3,907991812
+100	100	Tournament(4)	PMX	0,6	Insert	0,3		267,26	3,973965274
+100	100	Tournament(6)	PMX	0,8	Insert	0,125		267,28	4,60017391
+100	100	Tournament(6)	PMX	0,8	Insert	0,3		267,28	4,775102093
+100	100	Tournament(4)	PMX	0,6	Swap Mutation	0,1		267,28	3,538587289
+100	100	Tournament(4)	PMX	0,6	Swap Mutation	0,125		267,34	4,519336234
+100	100	Tournament(6)	PMX	0,8	Swap Mutation	0,1		267,34	4,416378607
+100	100	Tournament(6)	PMX	0,8	Swap Mutation	0,125		267,36	4,325551988
+100	100	Tournament(4)	PMX	0,6	Swap Mutation	0,3		267,36	4,471062514
+100	100	Tournament(4)	PMX	0,6	Scramble Mutation	0,1		267,4	3,655133376
+100	100	Tournament(6)	PMX	0,8	Swap Mutation	0,3		267,42	3,329204109
+100	100	Tournament(6)	PMX	0,8	Scramble Mutation	0,1		267,44	5,314734236
+100	100	Tournament(4)	PMX	0,6	Scramble Mutation	0,125		267,44	4,543830983
+100	100	Tournament(6)	PMX	0,8	Scramble Mutation	0,125		267,46	4,215257999
+100	100	Tournament(4)	PMX	0,6	Scramble Mutation	0,3		267,46	4,373602634
+100	100	Tournament(6)	PMX	0,8	Scramble Mutation	0,3		267,48	4,167685209
+100	100	Tournament(4)	PMX	0,7	Insert	0,1		267,48	3,806520721
+100	100	Tournament(4)	PMX	0,7	Insert	0,125		267,5	4,754997371
+100	100	Tournament(4)	PMX	0,7	Insert	0,3		267,5	3,606937759
+100	100	Tournament(4)	PMX	0,7	Swap Mutation	0,1		267,5	3,925557285
+100	100	Tournament(4)	PMX	0,7	Swap Mutation	0,125		267,5	4,346262762
+100	100	Tournament(4)	PMX	0,7	Swap Mutation	0,3		267,5	4,746577715
+100	100	Tournament(4)	PMX	0,7	Scramble Mutation	0,1		267,54	3,986025589
+100	100	Tournament(4)	PMX	0,7	Scramble Mutation	0,125		267,54	4,895753262
+100	100	Tournament(2)	PMX	0,6	Insert	0,1		267,54	4,948575553
+100	100	Tournament(4)	PMX	0,7	Scramble Mutation	0,3		267,54	4,825805632
+100	100	Tournament(4)	PMX	0,8	Insert	0,1		267,56	5,032534153
+100	100	Tournament(2)	PMX	0,6	Insert	0,3		267,58	4,138067182
+100	100	Tournament(2)	PMX	0,6	Insert	0,125		267,62	4,28434359
+100	100	Tournament(4)	PMX	0,8	Insert	0,125		267,66	4,425426533
+100	100	Tournament(4)	PMX	0,8	Insert	0,3		267,68	4,491948352
+100	100	Tournament(4)	PMX	0,8	Swap Mutation	0,1		267,68	4,896692761
+100	100	Tournament(4)	PMX	0,8	Swap Mutation	0,125		267,68	4,120388331
+100	100	Tournament(2)	PMX	0,6	Swap Mutation	0,1		267,7	5,583009941
+100	100	Tournament(2)	PMX	0,6	Swap Mutation	0,125		267,74	4,778326067
+100	100	Tournament(4)	PMX	0,8	Swap Mutation	0,3		267,74	3,8512855
+100	100	Tournament(4)	PMX	0,8	Scramble Mutation	0,1		267,76	4,375202852
+100	100	Tournament(2)	PMX	0,6	Swap Mutation	0,3		267,8	4,808326112
+100	100	Tournament(2)	PMX	0,6	Scramble Mutation	0,1		267,8	4,971921158
+100	100	Tournament(4)	PMX	0,8	Scramble Mutation	0,125		267,82	4,519690255
+100	100	Tournament(4)	PMX	0,8	Scramble Mutation	0,3		267,82	4,807036509
+100	100	Tournament(2)	PMX	0,6	Scramble Mutation	0,125		267,82	5,588166068
+100	100	Tournament(2)	PMX	0,6	Scramble Mutation	0,3		267,82	4,798708159
+100	100	Tournament(2)	PMX	0,7	Insert	0,1		267,86	4,749778942
+100	100	Tournament(2)	PMX	0,7	Insert	0,125		267,94	3,94669482
+100	100	Tournament(2)	PMX	0,7	Insert	0,3		267,96	3,746785289
+100	100	Tournament(2)	PMX	0,7	Swap Mutation	0,1		267,96	5,321503547
+100	100	Tournament(2)	PMX	0,7	Swap Mutation	0,125		267,98	4,900979494
+100	100	Tournament(2)	PMX	0,7	Swap Mutation	0,3		267,98	5,045750687
+100	100	Tournament(2)	PMX	0,7	Scramble Mutation	0,1		268	4,967896939
+100	100	Tournament(2)	PMX	0,7	Scramble Mutation	0,125		268	3,847076812
+100	100	Tournament(2)	PMX	0,7	Scramble Mutation	0,3		268,08	7,845610238
+100	100	Tournament(2)	PMX	0,8	Insert	0,1		268,1	4,3829214
+100	100	Tournament(2)	PMX	0,8	Insert	0,125		268,14	4,762394356
+100	100	Tournament(2)	PMX	0,8	Insert	0,3		268,2	5,257375771
+100	100	Tournament(2)	PMX	0,8	Swap Mutation	0,1		268,22	4,985137912
+100	100	Tournament(2)	PMX	0,8	Swap Mutation	0,125		268,24	6,08460352
+100	100	Tournament(2)	PMX	0,8	Swap Mutation	0,3		268,28	5,765552879
+100	100	Tournament(2)	PMX	0,8	Scramble Mutation	0,1		268,3	5,790509477
+100	100	Tournament(2)	PMX	0,8	Scramble Mutation	0,125		268,3	5,127377497
+100	100	Tournament(2)	PMX	0,8	Scramble Mutation	0,3		268,3	4,980963762
+200	100	Tournament(6)	PMX	0,6	Insert	0,1		268,38	5,313718096
+200	100	Tournament(6)	PMX	0,6	Insert	0,125		268,64	7,939168722
+200	100	Tournament(6)	PMX	0,6	Insert	0,3		268,76	7,328192137
+200	100	Tournament(6)	PMX	0,6	Swap Mutation	0,1		268,88	5,5195652
+200	100	Tournament(6)	PMX	0,6	Swap Mutation	0,125		268,96	5,388728978
+200	100	Tournament(6)	PMX	0,6	Swap Mutation	0,3		269	6,37495098
+200	100	Tournament(6)	PMX	0,6	Scramble Mutation	0,1		269,18	8,568990606
+200	100	Tournament(6)	PMX	0,6	Scramble Mutation	0,125		269,28	5,902677359
+200	100	Tournament(6)	PMX	0,6	Scramble Mutation	0,3		269,56	7,950245279
+200	100	Tournament(6)	PMX	0,7	Insert	0,1		269,66	6,65314963
+200	100	Tournament(6)	PMX	0,7	Insert	0,125		269,7	6,165225057
+200	100	Tournament(6)	PMX	0,7	Insert	0,3		269,7	8,649277426
+200	100	Tournament(6)	PMX	0,7	Swap Mutation	0,1		269,7	8,495292814
+200	100	Tournament(6)	PMX	0,7	Swap Mutation	0,125		269,7	8,05294977
+200	100	Tournament(6)	PMX	0,7	Swap Mutation	0,3		269,72	8,597767152
+200	100	Tournament(6)	PMX	0,7	Scramble Mutation	0,1		269,74	8,260290552
+200	100	Tournament(6)	PMX	0,7	Scramble Mutation	0,125		269,74	8,562266055
+200	100	Tournament(6)	PMX	0,7	Scramble Mutation	0,3		269,76	6,786928613
+200	100	Tournament(6)	PMX	0,8	Insert	0,1		269,76	7,226506763
+200	100	Tournament(6)	PMX	0,8	Insert	0,125		269,76	6,051644405
+200	100	Tournament(6)	PMX	0,8	Insert	0,3		269,78	8,333762656
+200	100	Tournament(6)	PMX	0,8	Swap Mutation	0,1		269,8	8,214621111
+200	100	Tournament(6)	PMX	0,8	Swap Mutation	0,125		269,94	8,521525685
+200	100	Tournament(6)	PMX	0,8	Swap Mutation	0,3		269,96	7,14411646
+200	100	Tournament(6)	PMX	0,8	Scramble Mutation	0,125		269,98	6,338738045
+200	100	Tournament(6)	PMX	0,8	Scramble Mutation	0,1		270	8,253484113
+200	100	Tournament(6)	PMX	0,8	Scramble Mutation	0,3		270,04	8,525162755
+200	100	Tournament(4)	PMX	0,6	Insert	0,1		270,06	8,355620863
+200	100	Tournament(4)	PMX	0,6	Insert	0,125		270,08	6,680838271
+200	100	Tournament(4)	PMX	0,6	Insert	0,3		270,1	6,044005295
+200	100	Tournament(4)	PMX	0,6	Swap Mutation	0,1		270,12	8,675574909
+200	100	Tournament(4)	PMX	0,6	Swap Mutation	0,125		270,16	6,643372637
+200	100	Tournament(4)	PMX	0,6	Swap Mutation	0,3		270,18	7,115307442
+200	100	Tournament(4)	PMX	0,6	Scramble Mutation	0,1		270,18	6,608146487
+200	100	Tournament(4)	PMX	0,6	Scramble Mutation	0,125		270,18	8,858193947
+200	100	Tournament(4)	PMX	0,6	Scramble Mutation	0,3		270,2	9,202173656
+200	100	Tournament(4)	PMX	0,7	Insert	0,1		270,22	6,619033162
+200	100	Tournament(4)	PMX	0,7	Insert	0,125		270,22	6,712048868
+200	100	Tournament(4)	PMX	0,7	Insert	0,3		270,24	6,778082325
+200	100	Tournament(4)	PMX	0,7	Swap Mutation	0,1		270,26	6,921878358
+200	100	Tournament(4)	PMX	0,7	Swap Mutation	0,125		270,3	8,572630868
+200	100	Tournament(4)	PMX	0,7	Swap Mutation	0,3		270,32	9,00542059
+200	100	Tournament(4)	PMX	0,7	Scramble Mutation	0,1		270,32	8,417695647
+200	100	Tournament(4)	PMX	0,7	Scramble Mutation	0,125		270,34	8,96796521
+200	100	Tournament(4)	PMX	0,7	Scramble Mutation	0,3		270,36	8,248054316
+200	100	Tournament(4)	PMX	0,8	Insert	0,1		270,38	8,813376198
+200	100	Tournament(4)	PMX	0,8	Insert	0,125		270,38	8,776992651
+200	100	Tournament(4)	PMX	0,8	Insert	0,3		270,4	6,486909896
+200	100	Tournament(4)	PMX	0,8	Swap Mutation	0,1		270,4	9,280086206
+200	100	Tournament(4)	PMX	0,8	Swap Mutation	0,125		270,42	8,722591358
+200	100	Tournament(4)	PMX	0,8	Swap Mutation	0,3		270,46	6,636896865
+200	100	Tournament(4)	PMX	0,8	Scramble Mutation	0,1		270,46	9,062472069
+200	100	Tournament(4)	PMX	0,8	Scramble Mutation	0,125		270,46	9,172153509
+200	100	Tournament(4)	PMX	0,8	Scramble Mutation	0,3		270,48	5,990792936
+200	100	Tournament(2)	PMX	0,6	Insert	0,1		270,48	6,756448771
+200	100	Tournament(2)	PMX	0,6	Insert	0,125		270,54	7,38433477
+200	100	Tournament(2)	PMX	0,6	Insert	0,3		270,56	8,443127383
+200	100	Tournament(2)	PMX	0,6	Swap Mutation	0,1		270,56	8,879549538
+200	100	Tournament(2)	PMX	0,6	Swap Mutation	0,125		270,56	9,256694875
+200	100	Tournament(2)	PMX	0,6	Swap Mutation	0,3		270,56	8,850220336
+200	100	Tournament(2)	PMX	0,6	Scramble Mutation	0,1		270,58	6,954394294
+200	100	Tournament(2)	PMX	0,6	Scramble Mutation	0,125		270,58	6,560762151
+200	100	Tournament(2)	PMX	0,6	Scramble Mutation	0,3		270,58	8,80929055
+200	100	Tournament(2)	PMX	0,7	Insert	0,1		270,62	6,437049013
+200	100	Tournament(2)	PMX	0,7	Insert	0,125		270,62	8,662309161
+200	100	Tournament(2)	PMX	0,7	Insert	0,3		270,62	8,763309877
+200	100	Tournament(2)	PMX	0,7	Swap Mutation	0,1		270,64	8,17987775
+200	100	Tournament(2)	PMX	0,7	Swap Mutation	0,125		270,66	7,092559482
+200	100	Tournament(2)	PMX	0,7	Swap Mutation	0,3		270,66	8,320120191
+200	100	Tournament(2)	PMX	0,7	Scramble Mutation	0,1		270,68	6,676645865
+200	100	Tournament(2)	PMX	0,7	Scramble Mutation	0,125		270,68	8,880180178
+200	100	Tournament(2)	PMX	0,7	Scramble Mutation	0,3		270,7	6,284106937
+200	100	Tournament(2)	PMX	0,8	Insert	0,1		270,7	6,007495318
+200	100	Tournament(2)	PMX	0,8	Insert	0,125		270,7	8,697700846
+200	100	Tournament(2)	PMX	0,8	Insert	0,3		270,72	8,944361352
+200	100	Tournament(2)	PMX	0,8	Swap Mutation	0,1		270,76	6,825130035
+200	100	Tournament(2)	PMX	0,8	Swap Mutation	0,125		270,76	9,02121943
+200	100	Tournament(2)	PMX	0,8	Swap Mutation	0,3		270,78	8,841470466
+200	100	Tournament(2)	PMX	0,8	Scramble Mutation	0,1		270,8	7,3430239
+200	100	Tournament(2)	PMX	0,8	Scramble Mutation	0,125		270,8	7,104927867
+200	100	Tournament(2)	PMX	0,8	Scramble Mutation	0,3		270,8	7,838367177
+50	100	Tournament(2)	Cycle	0,6	Insert	0,1		270,8	8,593020424
+50	100	Tournament(2)	Cycle	0,6	Swap Mutation	0,1		270,8	9,033271833
+50	100	Tournament(2)	Cycle	0,6	Insert	0,3		270,8	8,588364221
+50	100	Tournament(2)	Cycle	0,6	Insert	0,125		270,82	6,577811186
+50	100	Tournament(4)	Cycle	0,6	Insert	0,125		270,82	7,157345877
+50	100	Tournament(4)	Cycle	0,6	Insert	0,1		270,82	7,073019157
+50	100	Tournament(4)	Cycle	0,6	Insert	0,3		270,86	7,155445479
+50	100	Tournament(4)	Cycle	0,6	Swap Mutation	0,1		270,86	7,183341841
+50	100	Tournament(6)	Cycle	0,6	Swap Mutation	0,1		270,88	6,326578854
+50	100	Tournament(6)	Cycle	0,6	Insert	0,3		270,88	8,992530233
+50	100	Tournament(6)	Cycle	0,6	Insert	0,1		270,9	8,9
+50	100	Tournament(6)	Cycle	0,6	Insert	0,125		270,9	9,044888059
+50	100	Tournament(2)	Cycle	0,6	Scramble Mutation	0,1		270,92	7,126962888
+50	100	Tournament(2)	Cycle	0,6	Swap Mutation	0,125		270,92	5,881632426
+50	100	Tournament(2)	Cycle	0,6	Scramble Mutation	0,125		270,94	7,973481047
+50	100	Tournament(2)	Cycle	0,6	Swap Mutation	0,3		270,96	8,88810441
+50	100	Tournament(6)	Cycle	0,6	Swap Mutation	0,125		270,96	9,077356443
+50	100	Tournament(6)	Cycle	0,6	Scramble Mutation	0,1		270,98	7,229080163
+50	100	Tournament(4)	Cycle	0,6	Swap Mutation	0,125		270,98	8,568523794
+50	100	Tournament(6)	Cycle	0,6	Swap Mutation	0,3		271,02	8,693652857
+50	100	Tournament(4)	Cycle	0,6	Scramble Mutation	0,125		271,02	8,498211577
+50	100	Tournament(4)	Cycle	0,6	Scramble Mutation	0,1		271,06	8,436610694
+50	100	Tournament(4)	Cycle	0,6	Swap Mutation	0,3		271,08	6,327211076
+50	100	Tournament(6)	Cycle	0,6	Scramble Mutation	0,125		271,1	6,762396025
+50	100	Tournament(2)	Cycle	0,6	Scramble Mutation	0,3		271,1	8,523496935
+50	100	Tournament(2)	Cycle	0,7	Insert	0,1		271,1	9,121951546
+50	100	Tournament(2)	Cycle	0,7	Insert	0,125		271,1	8,924684868
+50	100	Tournament(2)	Cycle	0,7	Insert	0,3		271,12	6,635178973
+50	100	Tournament(6)	Cycle	0,6	Scramble Mutation	0,3		271,12	8,837737267
+50	100	Tournament(6)	Cycle	0,7	Insert	0,125		271,14	6,315093032
+50	100	Tournament(6)	Cycle	0,7	Insert	0,1		271,14	6,988590702
+50	100	Tournament(4)	Cycle	0,7	Insert	0,1		271,14	9,136760914
+50	100	Tournament(4)	Cycle	0,6	Scramble Mutation	0,3		271,14	9,106063914
+50	100	Tournament(6)	Cycle	0,7	Insert	0,3		271,16	6,297173969
+50	100	Tournament(4)	Cycle	0,7	Insert	0,3		271,18	8,849158152
+50	100	Tournament(4)	Cycle	0,7	Insert	0,125		271,18	8,320312494
+50	100	Tournament(2)	Cycle	0,7	Swap Mutation	0,1		271,2	8,957678271
+50	100	Tournament(2)	Cycle	0,7	Swap Mutation	0,125		271,22	9,28071118
+50	100	Tournament(2)	Cycle	0,7	Swap Mutation	0,3		271,22	9,159235776
+50	100	Tournament(2)	Cycle	0,7	Scramble Mutation	0,1		271,24	8,334410597
+50	100	Tournament(6)	Cycle	0,7	Swap Mutation	0,1		271,26	8,894515164
+50	100	Tournament(6)	Cycle	0,7	Swap Mutation	0,125		271,26	7,850630548
+50	100	Tournament(6)	Cycle	0,7	Swap Mutation	0,3		271,26	8,907996408
+50	100	Tournament(4)	Cycle	0,7	Swap Mutation	0,1		271,26	8,988459267
+50	100	Tournament(6)	Cycle	0,7	Scramble Mutation	0,1		271,26	9,166918784
+50	100	Tournament(4)	Cycle	0,7	Swap Mutation	0,125		271,26	8,988459267
+50	100	Tournament(4)	Cycle	0,7	Scramble Mutation	0,1		271,28	7,244418541
+50	100	Tournament(4)	Cycle	0,7	Swap Mutation	0,3		271,28	8,984520021
+50	100	Tournament(2)	Cycle	0,7	Scramble Mutation	0,125		271,28	8,639537025
+50	100	Tournament(2)	Cycle	0,7	Scramble Mutation	0,3		271,3	6,783067153
+50	100	Tournament(2)	Cycle	0,8	Insert	0,1		271,3	8,843641784
+50	100	Tournament(2)	Cycle	0,8	Insert	0,125		271,3	8,942594702
+50	100	Tournament(2)	Cycle	0,8	Insert	0,3		271,32	7,457720831
+50	100	Tournament(6)	Cycle	0,7	Scramble Mutation	0,125		271,32	8,633516086
+50	100	Tournament(2)	Cycle	0,8	Swap Mutation	0,1		271,32	7,963516811
+50	100	Tournament(6)	Cycle	0,7	Scramble Mutation	0,3		271,34	7,168291289
+50	100	Tournament(6)	Cycle	0,8	Insert	0,1		271,34	7,115082572
+50	100	Tournament(2)	Cycle	0,8	Swap Mutation	0,125		271,34	9,116161473
+50	100	Tournament(2)	Cycle	0,8	Swap Mutation	0,3		271,34	8,700827547
+50	100	Tournament(4)	Cycle	0,7	Scramble Mutation	0,125		271,38	8,442487785
+50	100	Tournament(4)	Cycle	0,7	Scramble Mutation	0,3		271,38	8,492090438
+50	100	Tournament(6)	Cycle	0,8	Insert	0,125		271,4	9,6
+50	100	Tournament(4)	Cycle	0,8	Insert	0,1		271,4	8,464041588
+50	100	Tournament(4)	Cycle	0,8	Insert	0,125		271,42	8,699632176
+50	100	Tournament(2)	Cycle	0,8	Scramble Mutation	0,1		271,44	7,217090827
+50	100	Tournament(2)	Cycle	0,8	Scramble Mutation	0,125		271,44	9,038052888
+50	100	Tournament(2)	Cycle	0,8	Scramble Mutation	0,3		271,46	6,824104337
+50	100	Tournament(6)	Cycle	0,8	Swap Mutation	0,1		271,46	6,844589104
+50	100	Tournament(6)	Cycle	0,8	Insert	0,3		271,46	8,946977143
+50	100	Tournament(6)	Cycle	0,8	Swap Mutation	0,125		271,48	9,185292592
+50	100	Tournament(2)	One-Point	0,6	Insert	0,1		271,48	8,476414336
+50	100	Tournament(4)	Cycle	0,8	Insert	0,3		271,48	9,402637928
+50	100	Tournament(4)	Cycle	0,8	Swap Mutation	0,1		271,48	8,436207679
+50	100	Tournament(6)	Cycle	0,8	Swap Mutation	0,3		271,5	8,830062287
+50	100	Tournament(4)	Cycle	0,8	Swap Mutation	0,125		271,5	8,725250713
+50	100	Tournament(4)	Cycle	0,8	Swap Mutation	0,3		271,5	8,996110271
+50	100	Tournament(2)	One-Point	0,6	Insert	0,125		271,52	7,122471481
+50	100	Tournament(2)	One-Point	0,6	Insert	0,3		271,52	6,91444864
+50	100	Tournament(2)	One-Point	0,6	Swap Mutation	0,1		271,52	8,852660617
+50	100	Tournament(2)	One-Point	0,6	Swap Mutation	0,125		271,52	9,000533318
+50	100	Tournament(6)	Cycle	0,8	Scramble Mutation	0,125		271,54	6,681945824
+50	100	Tournament(6)	Cycle	0,8	Scramble Mutation	0,1		271,54	9,826922204
+50	100	Tournament(6)	Cycle	0,8	Scramble Mutation	0,3		271,54	8,69530908
+50	100	Tournament(4)	Cycle	0,8	Scramble Mutation	0,1		271,54	8,621391999
+50	100	Tournament(6)	One-Point	0,6	Insert	0,1		271,56	9,370506923
+50	100	Tournament(4)	Cycle	0,8	Scramble Mutation	0,125		271,56	9,14802711
+50	100	Tournament(4)	Cycle	0,8	Scramble Mutation	0,3		271,56	9,30410662
+50	100	Tournament(4)	One-Point	0,6	Insert	0,1		271,58	9,044534261
+50	100	Tournament(2)	One-Point	0,6	Swap Mutation	0,3		271,58	8,890646771
+50	100	Tournament(2)	One-Point	0,6	Scramble Mutation	0,1		271,6	7,477967638
+50	100	Tournament(2)	One-Point	0,6	Scramble Mutation	0,125		271,62	9,497136411
+50	100	Tournament(2)	One-Point	0,6	Scramble Mutation	0,3		271,62	8,968589633
+50	100	Tournament(6)	One-Point	0,6	Insert	0,3		271,62	9,503452004
+50	100	Tournament(6)	One-Point	0,6	Insert	0,125		271,64	9,227697438
+50	100	Tournament(6)	One-Point	0,6	Swap Mutation	0,1		271,64	8,894402734
+50	100	Tournament(4)	One-Point	0,6	Insert	0,125		271,68	9,229171144
+50	100	Tournament(6)	One-Point	0,6	Swap Mutation	0,125		271,68	8,346112868
+50	100	Tournament(4)	One-Point	0,6	Insert	0,3		271,7	6,786015031
+50	100	Tournament(4)	One-Point	0,6	Swap Mutation	0,1		271,7	9,154780172
+50	100	Tournament(4)	One-Point	0,6	Swap Mutation	0,125		271,7	7,864477096
+50	100	Tournament(2)	One-Point	0,7	Insert	0,1		271,7	8,920201791
+50	100	Tournament(2)	One-Point	0,7	Insert	0,125		271,72	8,953301067
+50	100	Tournament(2)	One-Point	0,7	Insert	0,3		271,72	8,908512783
+50	100	Tournament(2)	One-Point	0,7	Swap Mutation	0,1		271,76	9,523780762
+50	100	Tournament(6)	One-Point	0,6	Swap Mutation	0,3		271,76	8,773961477
+50	100	Tournament(6)	One-Point	0,6	Scramble Mutation	0,1		271,78	7,603393979
+50	100	Tournament(6)	One-Point	0,6	Scramble Mutation	0,125		271,78	8,850514109
+50	100	Tournament(4)	One-Point	0,6	Swap Mutation	0,3		271,78	9,222342436
+50	100	Tournament(6)	One-Point	0,6	Scramble Mutation	0,3		271,78	9,272087144
+50	100	Tournament(4)	One-Point	0,6	Scramble Mutation	0,1		271,78	9,03391388
+50	100	Tournament(2)	One-Point	0,7	Swap Mutation	0,125		271,8	9,256349172
+50	100	Tournament(2)	One-Point	0,7	Swap Mutation	0,3		271,82	8,524529313
+50	100	Tournament(4)	One-Point	0,6	Scramble Mutation	0,125		271,82	9,294492993
+50	100	Tournament(4)	One-Point	0,6	Scramble Mutation	0,3		271,84	9,4347443
+50	100	Tournament(2)	One-Point	0,7	Scramble Mutation	0,1		271,86	8,852140984
+50	100	Tournament(2)	One-Point	0,7	Scramble Mutation	0,125		271,86	9,141137785
+50	100	Tournament(6)	One-Point	0,7	Insert	0,1		271,88	9,056798551
+50	100	Tournament(6)	One-Point	0,7	Insert	0,125		271,88	8,716971951
+50	100	Tournament(6)	One-Point	0,7	Insert	0,3		271,88	9,500821017
+50	100	Tournament(4)	One-Point	0,7	Insert	0,1		271,9	9,178779875
+50	100	Tournament(2)	One-Point	0,8	Insert	0,1		271,92	9,00408796
+50	100	Tournament(2)	One-Point	0,7	Scramble Mutation	0,3		271,92	9,497031115
+50	100	Tournament(4)	One-Point	0,7	Insert	0,125		271,94	7,45227482
+50	100	Tournament(6)	One-Point	0,7	Swap Mutation	0,1		271,94	8,796385621
+50	100	Tournament(2)	One-Point	0,8	Insert	0,125		271,94	9,157314017
+50	100	Tournament(4)	One-Point	0,7	Insert	0,3		271,94	9,235605015
+50	100	Tournament(4)	One-Point	0,7	Swap Mutation	0,1		271,94	9,207410059
+50	100	Tournament(2)	One-Point	0,8	Insert	0,3		271,94	8,850785276
+50	100	Tournament(2)	One-Point	0,8	Swap Mutation	0,1		271,94	9,172589602
+50	100	Tournament(2)	One-Point	0,8	Swap Mutation	0,125		271,96	7,889131765
+50	100	Tournament(6)	One-Point	0,7	Swap Mutation	0,125		271,96	7,683644968
+50	100	Tournament(6)	One-Point	0,7	Swap Mutation	0,3		271,96	9,301526756
+50	100	Tournament(6)	One-Point	0,7	Scramble Mutation	0,1		271,96	8,708524559
+50	100	Tournament(2)	One-Point	0,8	Swap Mutation	0,3		271,96	9,286463266
+50	100	Tournament(4)	One-Point	0,7	Swap Mutation	0,125		271,96	9,167246042
+50	100	Tournament(2)	One-Point	0,8	Scramble Mutation	0,1		271,96	9,476201771
+50	100	Tournament(6)	One-Point	0,7	Scramble Mutation	0,125		271,98	9,422292715
+50	100	Tournament(4)	One-Point	0,7	Swap Mutation	0,3		271,98	9,111509205
+50	100	Tournament(4)	One-Point	0,7	Scramble Mutation	0,1		271,98	9,47520976
+50	100	Tournament(4)	One-Point	0,7	Scramble Mutation	0,125		272	9,147677301
+50	100	Tournament(2)	One-Point	0,8	Scramble Mutation	0,3		272	8,616263691
+50	100	Tournament(2)	One-Point	0,8	Scramble Mutation	0,125		272,02	8,803385712
+100	100	Tournament(2)	Cycle	0,6	Insert	0,1		272,02	9,407422601
+50	100	Tournament(6)	One-Point	0,7	Scramble Mutation	0,3		272,04	9,530918109
+50	100	Tournament(6)	One-Point	0,8	Insert	0,1		272,04	8,892603668
+100	100	Tournament(2)	Cycle	0,6	Insert	0,125		272,06	9,638277854
+50	100	Tournament(6)	One-Point	0,8	Insert	0,125		272,06	9,261554945
+50	100	Tournament(4)	One-Point	0,7	Scramble Mutation	0,3		272,06	9,411503599
+50	100	Tournament(6)	One-Point	0,8	Insert	0,3		272,06	9,248589082
+50	100	Tournament(4)	One-Point	0,8	Insert	0,1		272,08	9,158253109
+50	100	Tournament(4)	One-Point	0,8	Insert	0,125		272,08	9,253842445
+50	100	Tournament(4)	One-Point	0,8	Insert	0,3		272,08	8,867558852
+100	100	Tournament(2)	Cycle	0,6	Swap Mutation	0,1		272,1	8,933644273
+100	100	Tournament(2)	Cycle	0,6	Insert	0,3		272,14	7,502026393
+100	100	Tournament(2)	Cycle	0,6	Swap Mutation	0,125		272,14	9,092876333
+100	100	Tournament(2)	Cycle	0,6	Swap Mutation	0,3		272,14	9,335973436
+50	100	Tournament(6)	One-Point	0,8	Swap Mutation	0,125		272,18	8,531564921
+50	100	Tournament(6)	One-Point	0,8	Swap Mutation	0,1		272,18	8,810652643
+50	100	Tournament(6)	One-Point	0,8	Swap Mutation	0,3		272,2	9,556149852
+50	100	Tournament(4)	One-Point	0,8	Swap Mutation	0,1		272,2	9,044335244
+50	100	Tournament(6)	One-Point	0,8	Scramble Mutation	0,1		272,2	8,536978388
+50	100	Tournament(4)	One-Point	0,8	Swap Mutation	0,125		272,22	7,231293107
+50	100	Tournament(4)	One-Point	0,8	Swap Mutation	0,3		272,22	6,943457352
+50	100	Tournament(4)	One-Point	0,8	Scramble Mutation	0,1		272,22	9,449423263
+100	100	Tournament(2)	Cycle	0,6	Scramble Mutation	0,125		272,22	8,791564138
+100	100	Tournament(2)	Cycle	0,6	Scramble Mutation	0,1		272,22	9,011747888
+100	100	Tournament(2)	Cycle	0,6	Scramble Mutation	0,3		272,22	9,261295806
+100	100	Tournament(2)	Cycle	0,7	Insert	0,1		272,24	9,074271321
+50	100	Tournament(6)	One-Point	0,8	Scramble Mutation	0,3		272,24	8,700712614
+50	100	Tournament(6)	One-Point	0,8	Scramble Mutation	0,125		272,26	7,722201759
+100	100	Tournament(6)	Cycle	0,6	Insert	0,1		272,26	9,216962623
+100	100	Tournament(6)	Cycle	0,6	Insert	0,125		272,28	7,135937219
+50	100	Tournament(4)	One-Point	0,8	Scramble Mutation	0,125		272,3	8,74814266
+50	100	Tournament(4)	One-Point	0,8	Scramble Mutation	0,3		272,3	9,546203434
+100	100	Tournament(4)	Cycle	0,6	Insert	0,1		272,32	9,27241069
+100	100	Tournament(4)	Cycle	0,6	Insert	0,125		272,32	9,231337931
+100	100	Tournament(2)	Cycle	0,7	Insert	0,125		272,34	9,124932876
+100	100	Tournament(2)	Cycle	0,7	Insert	0,3		272,34	9,373601229
+100	100	Tournament(2)	Cycle	0,7	Swap Mutation	0,1		272,34	9,162117659
+100	100	Tournament(2)	Cycle	0,7	Swap Mutation	0,125		272,34	9,433154297
+100	100	Tournament(6)	Cycle	0,6	Swap Mutation	0,1		272,38	9,206280465
+100	100	Tournament(6)	Cycle	0,6	Insert	0,3		272,38	9,039668136
+100	100	Tournament(6)	Cycle	0,6	Swap Mutation	0,125		272,38	9,329287218
+100	100	Tournament(6)	Cycle	0,6	Swap Mutation	0,3		272,38	9,382728814
+100	100	Tournament(4)	Cycle	0,6	Insert	0,3		272,4	9,331666518
+100	100	Tournament(4)	Cycle	0,6	Swap Mutation	0,1		272,4	9,368030743
+100	100	Tournament(2)	Cycle	0,7	Scramble Mutation	0,1		272,42	9,510184015
+100	100	Tournament(2)	Cycle	0,7	Swap Mutation	0,3		272,42	8,989082267
+100	100	Tournament(4)	Cycle	0,6	Swap Mutation	0,125		272,42	9,18714319
+100	100	Tournament(4)	Cycle	0,6	Swap Mutation	0,3		272,44	9,09760408
+100	100	Tournament(2)	Cycle	0,7	Scramble Mutation	0,125		272,44	9,518739412
+100	100	Tournament(2)	Cycle	0,7	Scramble Mutation	0,3		272,46	9,391932708
+100	100	Tournament(6)	Cycle	0,6	Scramble Mutation	0,125		272,46	9,209147626
+100	100	Tournament(6)	Cycle	0,6	Scramble Mutation	0,1		272,46	8,795930877
+100	100	Tournament(6)	Cycle	0,6	Scramble Mutation	0,3		272,46	9,495704292
+100	100	Tournament(6)	Cycle	0,7	Insert	0,1		272,46	8,530439614
+100	100	Tournament(2)	Cycle	0,8	Insert	0,1		272,46	8,978218086
+100	100	Tournament(4)	Cycle	0,6	Scramble Mutation	0,1		272,46	9,106503171
+100	100	Tournament(4)	Cycle	0,6	Scramble Mutation	0,125		272,5	9,256889326
+100	100	Tournament(2)	Cycle	0,8	Insert	0,125		272,5	8,405355436
+100	100	Tournament(2)	Cycle	0,8	Insert	0,3		272,5	8,940357935
+100	100	Tournament(4)	Cycle	0,6	Scramble Mutation	0,3		272,5	8,754998572
+100	100	Tournament(4)	Cycle	0,7	Insert	0,1		272,5	9,058145506
+100	100	Tournament(2)	Cycle	0,8	Swap Mutation	0,1		272,54	9,349245959
+100	100	Tournament(6)	Cycle	0,7	Insert	0,125		272,54	9,383410894
+100	100	Tournament(6)	Cycle	0,7	Insert	0,3		272,56	8,915514567
+100	100	Tournament(6)	Cycle	0,7	Swap Mutation	0,1		272,58	8,922084958
+100	100	Tournament(2)	Cycle	0,8	Swap Mutation	0,125		272,58	9,707914297
+100	100	Tournament(2)	Cycle	0,8	Swap Mutation	0,3		272,6	9,182592227
+100	100	Tournament(6)	Cycle	0,7	Swap Mutation	0,125		272,64	9,214683934
+100	100	Tournament(4)	Cycle	0,7	Insert	0,125		272,64	9,35042245
+100	100	Tournament(4)	Cycle	0,7	Insert	0,3		272,64	8,957142401
+100	100	Tournament(2)	Cycle	0,8	Scramble Mutation	0,1		272,66	9,001355453
+100	100	Tournament(2)	Cycle	0,8	Scramble Mutation	0,125		272,68	8,488674808
+100	100	Tournament(4)	Cycle	0,7	Swap Mutation	0,1		272,68	9,336894559
+100	100	Tournament(4)	Cycle	0,7	Swap Mutation	0,125		272,68	9,669415701
+100	100	Tournament(2)	Cycle	0,8	Scramble Mutation	0,3		272,7	9,124143795
+100	100	Tournament(2)	One-Point	0,6	Insert	0,1		272,72	7,75123216
+100	100	Tournament(6)	Cycle	0,7	Swap Mutation	0,3		272,72	9,408591818
+100	100	Tournament(6)	Cycle	0,7	Scramble Mutation	0,1		272,72	7,704647948
+100	100	Tournament(6)	Cycle	0,7	Scramble Mutation	0,125		272,72	9,121491106
+100	100	Tournament(2)	One-Point	0,6	Insert	0,125		272,72	9,683057368
+100	100	Tournament(2)	One-Point	0,6	Insert	0,3		272,74	8,896763456
+100	100	Tournament(6)	Cycle	0,7	Scramble Mutation	0,3		272,76	9,274826144
+100	100	Tournament(4)	Cycle	0,7	Swap Mutation	0,3		272,76	8,540632295
+100	100	Tournament(4)	Cycle	0,7	Scramble Mutation	0,1		272,78	9,308684118
+100	100	Tournament(4)	Cycle	0,7	Scramble Mutation	0,125		272,78	9,519012554
+100	100	Tournament(4)	Cycle	0,7	Scramble Mutation	0,3		272,8	8,97329371
+100	100	Tournament(2)	One-Point	0,6	Swap Mutation	0,1		272,86	8,65565711
+100	100	Tournament(2)	One-Point	0,6	Swap Mutation	0,125		272,88	8,976948257
+100	100	Tournament(2)	One-Point	0,6	Swap Mutation	0,3		272,88	9,061214047
+100	100	Tournament(6)	Cycle	0,8	Insert	0,125		272,88	9,409867162
+100	100	Tournament(6)	Cycle	0,8	Insert	0,1		272,88	9,333038091
+100	100	Tournament(6)	Cycle	0,8	Insert	0,3		272,88	9,530246587
+100	100	Tournament(2)	One-Point	0,6	Scramble Mutation	0,1		272,9	8,614522622
+100	100	Tournament(6)	Cycle	0,8	Swap Mutation	0,1		272,9	9,167878708
+100	100	Tournament(4)	Cycle	0,8	Insert	0,1		272,92	8,894582621
+100	100	Tournament(4)	Cycle	0,8	Insert	0,125		272,92	9,046192569
+100	100	Tournament(4)	Cycle	0,8	Insert	0,3		272,94	8,978663598
+100	100	Tournament(4)	Cycle	0,8	Swap Mutation	0,1		272,94	8,965288618
+100	100	Tournament(2)	One-Point	0,6	Scramble Mutation	0,125		272,94	9,338972106
+100	100	Tournament(2)	One-Point	0,6	Scramble Mutation	0,3		272,94	9,272345981
+100	100	Tournament(2)	One-Point	0,7	Insert	0,1		272,96	8,861060885
+100	100	Tournament(6)	Cycle	0,8	Swap Mutation	0,3		272,96	9,072948804
+100	100	Tournament(6)	Cycle	0,8	Swap Mutation	0,125		272,96	7,127299629
+100	100	Tournament(2)	One-Point	0,7	Insert	0,125		272,96	9,408421759
+100	100	Tournament(6)	Cycle	0,8	Scramble Mutation	0,1		272,98	7,349802718
+100	100	Tournament(6)	Cycle	0,8	Scramble Mutation	0,125		272,98	9,529931794
+100	100	Tournament(4)	Cycle	0,8	Swap Mutation	0,125		272,98	8,531096061
+100	100	Tournament(4)	Cycle	0,8	Swap Mutation	0,3		272,98	9,46465002
+100	100	Tournament(4)	Cycle	0,8	Scramble Mutation	0,1		273	9,412757301
+100	100	Tournament(4)	Cycle	0,8	Scramble Mutation	0,125		273	9,732420048
+100	100	Tournament(2)	One-Point	0,7	Insert	0,3		273,02	9,443495116
+100	100	Tournament(2)	One-Point	0,7	Swap Mutation	0,1		273,02	9,146562196
+100	100	Tournament(2)	One-Point	0,7	Swap Mutation	0,125		273,02	9,432899872
+100	100	Tournament(6)	Cycle	0,8	Scramble Mutation	0,3		273,04	9,171608365
+100	100	Tournament(6)	One-Point	0,6	Insert	0,1		273,04	9,225963364
+100	100	Tournament(2)	One-Point	0,7	Swap Mutation	0,3		273,04	9,290769613
+100	100	Tournament(6)	One-Point	0,6	Insert	0,125		273,04	9,055296792
+100	100	Tournament(6)	One-Point	0,6	Insert	0,3		273,06	8,75079425
+100	100	Tournament(4)	Cycle	0,8	Scramble Mutation	0,3		273,06	9,104746015
+100	100	Tournament(4)	One-Point	0,6	Insert	0,1		273,06	8,96974916
+100	100	Tournament(4)	One-Point	0,6	Insert	0,125		273,06	9,150759531
+100	100	Tournament(2)	One-Point	0,7	Scramble Mutation	0,1		273,08	8,788264903
+100	100	Tournament(4)	One-Point	0,6	Insert	0,3		273,08	8,399619039
+100	100	Tournament(2)	One-Point	0,7	Scramble Mutation	0,125		273,1	8,872992731
+100	100	Tournament(2)	One-Point	0,7	Scramble Mutation	0,3		273,1	9,302150289
+100	100	Tournament(2)	One-Point	0,8	Insert	0,1		273,14	8,966627014
+100	100	Tournament(6)	One-Point	0,6	Swap Mutation	0,1		273,14	9,520525196
+100	100	Tournament(6)	One-Point	0,6	Swap Mutation	0,125		273,16	9,579895615
+100	100	Tournament(6)	One-Point	0,6	Swap Mutation	0,3		273,16	9,082642787
+100	100	Tournament(6)	One-Point	0,6	Scramble Mutation	0,1		273,18	8,891996401
+100	100	Tournament(4)	One-Point	0,6	Swap Mutation	0,1		273,2	9,429740187
+100	100	Tournament(4)	One-Point	0,6	Swap Mutation	0,125		273,2	9,691233152
+100	100	Tournament(2)	One-Point	0,8	Insert	0,125		273,22	7,744133263
+100	100	Tournament(4)	One-Point	0,6	Swap Mutation	0,3		273,22	8,991751776
+100	100	Tournament(2)	One-Point	0,8	Insert	0,3		273,22	9,293632229
+100	100	Tournament(2)	One-Point	0,8	Swap Mutation	0,1		273,24	9,003465999
+100	100	Tournament(4)	One-Point	0,6	Scramble Mutation	0,1		273,24	9,367091331
+100	100	Tournament(2)	One-Point	0,8	Swap Mutation	0,125		273,26	9,473774327
+100	100	Tournament(6)	One-Point	0,6	Scramble Mutation	0,3		273,26	9,461099302
+100	100	Tournament(6)	One-Point	0,6	Scramble Mutation	0,125		273,28	9,859087179
+100	100	Tournament(6)	One-Point	0,7	Insert	0,1		273,28	9,031146107
+100	100	Tournament(6)	One-Point	0,7	Insert	0,125		273,3	8,884255737
+100	100	Tournament(2)	One-Point	0,8	Swap Mutation	0,3		273,32	7,398486332
+100	100	Tournament(4)	One-Point	0,6	Scramble Mutation	0,125		273,34	9,272777362
+100	100	Tournament(4)	One-Point	0,6	Scramble Mutation	0,3		273,34	9,365062733
+100	100	Tournament(2)	One-Point	0,8	Scramble Mutation	0,1		273,34	8,93892611
+100	100	Tournament(4)	One-Point	0,7	Insert	0,1		273,38	9,151808564
+100	100	Tournament(2)	One-Point	0,8	Scramble Mutation	0,125		273,38	9,138686995
+100	100	Tournament(4)	One-Point	0,7	Insert	0,125		273,4	9,046546302
+100	100	Tournament(2)	One-Point	0,8	Scramble Mutation	0,3		273,4	9,147677301
+100	100	Tournament(6)	One-Point	0,7	Swap Mutation	0,1		273,42	9,410823556
+100	100	Tournament(6)	One-Point	0,7	Insert	0,3		273,42	8,541873331
+100	100	Tournament(6)	One-Point	0,7	Swap Mutation	0,125		273,44	9,110784818
+200	100	Tournament(2)	Cycle	0,6	Insert	0,1		273,46	9,211319124
+200	100	Tournament(2)	Cycle	0,6	Insert	0,125		273,46	9,12624786
+100	100	Tournament(6)	One-Point	0,7	Swap Mutation	0,3		273,48	9,67933882
+100	100	Tournament(4)	One-Point	0,7	Insert	0,3		273,48	9,202695257
+200	100	Tournament(2)	Cycle	0,6	Insert	0,3		273,5	9,602603814
+100	100	Tournament(4)	One-Point	0,7	Swap Mutation	0,1		273,5	9,302150289
+100	100	Tournament(4)	One-Point	0,7	Swap Mutation	0,125		273,52	8,933621886
+200	100	Tournament(2)	Cycle	0,6	Swap Mutation	0,1		273,52	9,562928422
+100	100	Tournament(4)	One-Point	0,7	Swap Mutation	0,3		273,52	9,211384261
+100	100	Tournament(6)	One-Point	0,7	Scramble Mutation	0,125		273,52	9,099978022
+100	100	Tournament(6)	One-Point	0,7	Scramble Mutation	0,1		273,52	9,457779866
+200	100	Tournament(2)	Cycle	0,6	Swap Mutation	0,125		273,54	9,962349121
+200	100	Tournament(2)	Cycle	0,6	Swap Mutation	0,3		273,54	9,267599473
+100	100	Tournament(6)	One-Point	0,7	Scramble Mutation	0,3		273,56	9,14802711
+200	100	Tournament(2)	Cycle	0,6	Scramble Mutation	0,1		273,56	8,975878787
+100	100	Tournament(6)	One-Point	0,8	Insert	0,1		273,62	9,522373654
+100	100	Tournament(4)	One-Point	0,7	Scramble Mutation	0,1		273,62	9,258271977
+100	100	Tournament(4)	One-Point	0,7	Scramble Mutation	0,125		273,64	9,123069659
+100	100	Tournament(4)	One-Point	0,7	Scramble Mutation	0,3		273,64	9,622390555
+200	100	Tournament(2)	Cycle	0,6	Scramble Mutation	0,125		273,66	9,426791607
+100	100	Tournament(4)	One-Point	0,8	Insert	0,1		273,66	9,601270749
+200	100	Tournament(2)	Cycle	0,6	Scramble Mutation	0,3		273,66	9,1315059
+100	100	Tournament(6)	One-Point	0,8	Insert	0,125		273,68	8,960892813
+100	100	Tournament(6)	One-Point	0,8	Insert	0,3		273,68	9,166111498
+200	100	Tournament(2)	Cycle	0,7	Insert	0,1		273,7	9,374966667
+100	100	Tournament(6)	One-Point	0,8	Swap Mutation	0,1		273,7	9,291393867
+200	100	Tournament(2)	Cycle	0,7	Insert	0,125		273,7	8,614522622
+100	100	Tournament(6)	One-Point	0,8	Swap Mutation	0,125		273,72	9,200086956
+100	100	Tournament(4)	One-Point	0,8	Insert	0,125		273,72	8,917488436
+200	100	Tournament(2)	Cycle	0,7	Insert	0,3		273,74	9,437817544
+100	100	Tournament(4)	One-Point	0,8	Insert	0,3		273,74	9,410228478
+100	100	Tournament(4)	One-Point	0,8	Swap Mutation	0,1		273,76	9,135775829
+100	100	Tournament(4)	One-Point	0,8	Swap Mutation	0,125		273,78	9,020620821
+200	100	Tournament(2)	Cycle	0,7	Swap Mutation	0,1		273,8	9,267146271
+200	100	Tournament(2)	Cycle	0,7	Swap Mutation	0,125		273,8	9,23904757
+100	100	Tournament(6)	One-Point	0,8	Swap Mutation	0,3		273,8	9,543584232
+100	100	Tournament(6)	One-Point	0,8	Scramble Mutation	0,1		273,82	9,509342774
+200	100	Tournament(2)	Cycle	0,7	Swap Mutation	0,3		273,82	8,900988709
+100	100	Tournament(6)	One-Point	0,8	Scramble Mutation	0,125		273,86	9,664388237
+200	100	Tournament(2)	Cycle	0,7	Scramble Mutation	0,1		273,86	9,448830615
+100	100	Tournament(6)	One-Point	0,8	Scramble Mutation	0,3		273,9	9,306449377
+100	100	Tournament(4)	One-Point	0,8	Swap Mutation	0,3		273,92	9,314161261
+100	100	Tournament(4)	One-Point	0,8	Scramble Mutation	0,1		273,92	9,329180028
+100	100	Tournament(4)	One-Point	0,8	Scramble Mutation	0,125		273,92	9,077092045
+200	100	Tournament(2)	Cycle	0,7	Scramble Mutation	0,125		273,94	9,268031075
+100	100	Tournament(4)	One-Point	0,8	Scramble Mutation	0,3		273,94	9,139824944
+200	100	Tournament(2)	Cycle	0,7	Scramble Mutation	0,3		273,96	9,340149892
+200	100	Tournament(2)	Cycle	0,8	Insert	0,1		273,96	9,310123522
+200	100	Tournament(6)	Cycle	0,6	Insert	0,1		273,96	9,662215067
+200	100	Tournament(6)	Cycle	0,6	Insert	0,125		273,96	9,455072713
+200	100	Tournament(6)	Cycle	0,6	Insert	0,3		274	9,453041838
+200	100	Tournament(2)	Cycle	0,8	Insert	0,125		274	8,933084574
+200	100	Tournament(6)	Cycle	0,6	Swap Mutation	0,1		274,02	9,386138716
+200	100	Tournament(4)	Cycle	0,6	Insert	0,1		274,02	8,947603031
+200	100	Tournament(4)	Cycle	0,6	Insert	0,125		274,02	9,401042495
+200	100	Tournament(2)	Cycle	0,8	Insert	0,3		274,04	9,238960981
+200	100	Tournament(4)	Cycle	0,6	Insert	0,3		274,06	9,235605015
+200	100	Tournament(2)	Cycle	0,8	Swap Mutation	0,1		274,06	8,91607537
+200	100	Tournament(2)	Cycle	0,8	Swap Mutation	0,125		274,08	8,948385329
+200	100	Tournament(4)	Cycle	0,6	Swap Mutation	0,1		274,08	9,245193346
+200	100	Tournament(6)	Cycle	0,6	Swap Mutation	0,125		274,08	9,307717228
+200	100	Tournament(6)	Cycle	0,6	Swap Mutation	0,3		274,08	9,195303149
+200	100	Tournament(2)	Cycle	0,8	Swap Mutation	0,3		274,1	9,222255689
+200	100	Tournament(6)	Cycle	0,6	Scramble Mutation	0,1		274,12	9,435337832
+200	100	Tournament(6)	Cycle	0,6	Scramble Mutation	0,125		274,14	9,288724347
+200	100	Tournament(2)	Cycle	0,8	Scramble Mutation	0,1		274,14	8,973315998
+200	100	Tournament(4)	Cycle	0,6	Swap Mutation	0,125		274,16	9,334580869
+200	100	Tournament(4)	Cycle	0,6	Swap Mutation	0,3		274,18	9,526153473
+200	100	Tournament(2)	Cycle	0,8	Scramble Mutation	0,125		274,18	9,403595057
+200	100	Tournament(4)	Cycle	0,6	Scramble Mutation	0,1		274,2	9,215204827
+200	100	Tournament(2)	Cycle	0,8	Scramble Mutation	0,3		274,2	8,876936408
+200	100	Tournament(4)	Cycle	0,6	Scramble Mutation	0,125		274,2	9,17169559
+200	100	Tournament(2)	One-Point	0,6	Insert	0,1		274,22	9,11107019
+200	100	Tournament(6)	Cycle	0,6	Scramble Mutation	0,3		274,22	9,139562353
+200	100	Tournament(6)	Cycle	0,7	Insert	0,1		274,22	9,196281857
+200	100	Tournament(6)	Cycle	0,7	Insert	0,125		274,22	9,082488646
+200	100	Tournament(2)	One-Point	0,6	Insert	0,125		274,24	8,737413805
+200	100	Tournament(6)	Cycle	0,7	Insert	0,3		274,24	8,776240653
+200	100	Tournament(4)	Cycle	0,6	Scramble Mutation	0,3		274,26	9,393210314
+200	100	Tournament(2)	One-Point	0,6	Insert	0,3		274,28	9,672724539
+200	100	Tournament(4)	Cycle	0,7	Insert	0,1		274,3	9,143850392
+200	100	Tournament(4)	Cycle	0,7	Insert	0,125		274,3	9,57340065
+200	100	Tournament(2)	One-Point	0,6	Swap Mutation	0,1		274,3	9,060353194
+200	100	Tournament(4)	Cycle	0,7	Insert	0,3		274,3	9,449338601
+200	100	Tournament(2)	One-Point	0,6	Swap Mutation	0,125		274,32	9,161746558
+200	100	Tournament(6)	Cycle	0,7	Swap Mutation	0,1		274,34	8,552449941
+200	100	Tournament(6)	Cycle	0,7	Swap Mutation	0,125		274,34	9,555333589
+200	100	Tournament(6)	Cycle	0,7	Swap Mutation	0,3		274,36	8,76301318
+200	100	Tournament(2)	One-Point	0,6	Swap Mutation	0,3		274,36	9,262310727
+200	100	Tournament(2)	One-Point	0,6	Scramble Mutation	0,1		274,36	9,155894276
+200	100	Tournament(6)	Cycle	0,7	Scramble Mutation	0,1		274,36	8,569153984
+200	100	Tournament(4)	Cycle	0,7	Swap Mutation	0,1		274,4	8,94427191
+200	100	Tournament(2)	One-Point	0,6	Scramble Mutation	0,125		274,4	9,51209756
+200	100	Tournament(4)	Cycle	0,7	Swap Mutation	0,125		274,4	9,736529156
+200	100	Tournament(4)	Cycle	0,7	Swap Mutation	0,3		274,4	9,53310023
+200	100	Tournament(2)	One-Point	0,6	Scramble Mutation	0,3		274,4	9,518403227
+200	100	Tournament(4)	Cycle	0,7	Scramble Mutation	0,1		274,4	8,648699324
+200	100	Tournament(6)	Cycle	0,7	Scramble Mutation	0,125		274,42	9,455347693
+200	100	Tournament(6)	Cycle	0,7	Scramble Mutation	0,3		274,42	8,904133871
+200	100	Tournament(2)	One-Point	0,7	Insert	0,1		274,44	7,723108183
+200	100	Tournament(6)	Cycle	0,8	Insert	0,1		274,44	8,786717248
+200	100	Tournament(2)	One-Point	0,7	Insert	0,125		274,44	9,327722123
+200	100	Tournament(6)	Cycle	0,8	Insert	0,125		274,46	9,334259478
+200	100	Tournament(2)	One-Point	0,7	Insert	0,3		274,46	8,975990196
+200	100	Tournament(4)	Cycle	0,7	Scramble Mutation	0,125		274,46	9,408953183
+200	100	Tournament(4)	Cycle	0,7	Scramble Mutation	0,3		274,48	9,269822005
+200	100	Tournament(4)	Cycle	0,8	Insert	0,1		274,48	9,013856001
+200	100	Tournament(2)	One-Point	0,7	Swap Mutation	0,1		274,5	9,143850392
+200	100	Tournament(4)	Cycle	0,8	Insert	0,125		274,5	8,947066558
+200	100	Tournament(6)	Cycle	0,8	Swap Mutation	0,1		274,5	9,248243076
+200	100	Tournament(6)	Cycle	0,8	Insert	0,3		274,52	8,563270403
+200	100	Tournament(2)	One-Point	0,7	Swap Mutation	0,125		274,54	9,077907248
+200	100	Tournament(2)	One-Point	0,7	Swap Mutation	0,3		274,54	8,906649202
+200	100	Tournament(6)	Cycle	0,8	Swap Mutation	0,125		274,54	9,552402839
+200	100	Tournament(6)	Cycle	0,8	Swap Mutation	0,3		274,58	9,402318863
+200	100	Tournament(2)	One-Point	0,7	Scramble Mutation	0,1		274,6	8,480566019
+200	100	Tournament(4)	Cycle	0,8	Insert	0,3		274,6	9,132360045
+200	100	Tournament(4)	Cycle	0,8	Swap Mutation	0,1		274,62	9,401893426
+200	100	Tournament(4)	Cycle	0,8	Swap Mutation	0,125		274,7	8,973850901
+200	100	Tournament(2)	One-Point	0,7	Scramble Mutation	0,125		274,7	8,722958214
+200	100	Tournament(4)	Cycle	0,8	Swap Mutation	0,3		274,7	9,423905772
+200	100	Tournament(6)	Cycle	0,8	Scramble Mutation	0,1		274,7	8,609878048
+200	100	Tournament(6)	Cycle	0,8	Scramble Mutation	0,125		274,72	9,641659608
+200	100	Tournament(2)	One-Point	0,7	Scramble Mutation	0,3		274,74	8,731116767
+200	100	Tournament(6)	Cycle	0,8	Scramble Mutation	0,3		274,76	8,947759496
+200	100	Tournament(2)	One-Point	0,8	Insert	0,1		274,76	9,047784259
+200	100	Tournament(6)	One-Point	0,6	Insert	0,1		274,78	9,46634037
+200	100	Tournament(2)	One-Point	0,8	Insert	0,125		274,78	8,897842435
+200	100	Tournament(4)	Cycle	0,8	Scramble Mutation	0,1		274,78	9,241839644
+200	100	Tournament(4)	Cycle	0,8	Scramble Mutation	0,125		274,78	9,497978732
+200	100	Tournament(4)	Cycle	0,8	Scramble Mutation	0,3		274,84	9,176840415
+200	100	Tournament(2)	One-Point	0,8	Insert	0,3		274,84	8,843890547
+200	100	Tournament(4)	One-Point	0,6	Insert	0,1		274,86	9,431882103
+200	100	Tournament(6)	One-Point	0,6	Insert	0,125		274,88	9,322317308
+200	100	Tournament(2)	One-Point	0,8	Swap Mutation	0,1		274,88	9,287927648
+200	100	Tournament(6)	One-Point	0,6	Insert	0,3		274,9	9,372833083
+200	100	Tournament(2)	One-Point	0,8	Swap Mutation	0,125		274,9	9,596353474
+200	100	Tournament(6)	One-Point	0,6	Swap Mutation	0,1		274,9	8,738993077
+200	100	Tournament(2)	One-Point	0,8	Swap Mutation	0,3		274,9	9,220086767
+200	100	Tournament(6)	One-Point	0,6	Swap Mutation	0,125		274,96	9,162881643
+200	100	Tournament(4)	One-Point	0,6	Insert	0,125		274,98	9,379744133
+200	100	Tournament(2)	One-Point	0,8	Scramble Mutation	0,1		274,98	9,354122086
+200	100	Tournament(4)	One-Point	0,6	Insert	0,3		275	9,335952014
+200	100	Tournament(4)	One-Point	0,6	Swap Mutation	0,1		275,02	9,102724867
+200	100	Tournament(2)	One-Point	0,8	Scramble Mutation	0,125		275,02	9,287604643
+200	100	Tournament(2)	One-Point	0,8	Scramble Mutation	0,3		275,04	9,499389454
+200	100	Tournament(4)	One-Point	0,6	Swap Mutation	0,125		275,1	8,956003573
+200	100	Tournament(6)	One-Point	0,6	Swap Mutation	0,3		275,18	9,114142856
+200	100	Tournament(6)	One-Point	0,6	Scramble Mutation	0,1		275,2	9,325234581
+200	100	Tournament(6)	One-Point	0,6	Scramble Mutation	0,125		275,24	9,144528419
+200	100	Tournament(6)	One-Point	0,6	Scramble Mutation	0,3		275,24	9,164191181
+200	100	Tournament(4)	One-Point	0,6	Swap Mutation	0,3		275,4	8,17801932
+200	100	Tournament(4)	One-Point	0,6	Scramble Mutation	0,1		275,44	9,293352463
+200	100	Tournament(4)	One-Point	0,6	Scramble Mutation	0,125		275,46	8,688406068
+200	100	Tournament(4)	One-Point	0,6	Scramble Mutation	0,3		275,52	8,938098232
+200	100	Tournament(6)	One-Point	0,7	Insert	0,1		275,54	9,299913978
+200	100	Tournament(6)	One-Point	0,7	Insert	0,125		275,56	9,106393359
+200	100	Tournament(6)	One-Point	0,7	Insert	0,3		275,62	9,247464517
+200	100	Tournament(6)	One-Point	0,7	Swap Mutation	0,1		275,64	8,952675578
+200	100	Tournament(4)	One-Point	0,7	Insert	0,1		275,66	9,21869839
+200	100	Tournament(4)	One-Point	0,7	Insert	0,125		275,66	7,888244418
+200	100	Tournament(4)	One-Point	0,7	Insert	0,3		275,7	9,33862945
+200	100	Tournament(4)	One-Point	0,7	Swap Mutation	0,1		275,72	8,361913657
+200	100	Tournament(6)	One-Point	0,7	Swap Mutation	0,125		275,72	9,092942318
+200	100	Tournament(6)	One-Point	0,7	Swap Mutation	0,3		275,74	9,388950953
+200	100	Tournament(6)	One-Point	0,7	Scramble Mutation	0,1		275,76	9,456341787
+200	100	Tournament(6)	One-Point	0,7	Scramble Mutation	0,125		275,8	9,314504818
+200	100	Tournament(4)	One-Point	0,7	Swap Mutation	0,125		275,8	9,042123644
+200	100	Tournament(4)	One-Point	0,7	Swap Mutation	0,3		275,86	8,831783512
+200	100	Tournament(4)	One-Point	0,7	Scramble Mutation	0,1		275,88	8,808268842
+200	100	Tournament(6)	One-Point	0,7	Scramble Mutation	0,3		275,96	8,894852444
+200	100	Tournament(4)	One-Point	0,7	Scramble Mutation	0,125		276	8,83402513
+200	100	Tournament(6)	One-Point	0,8	Insert	0,1		276	8,870174745
+200	100	Tournament(6)	One-Point	0,8	Insert	0,125		276,02	8,57785521
+200	100	Tournament(6)	One-Point	0,8	Insert	0,3		276,04	8,979888641
+200	100	Tournament(4)	One-Point	0,7	Scramble Mutation	0,3		276,1	8,649277426
+200	100	Tournament(4)	One-Point	0,8	Insert	0,1		276,14	8,899460658
+200	100	Tournament(4)	One-Point	0,8	Insert	0,125		276,26	8,997355167
+200	100	Tournament(6)	One-Point	0,8	Swap Mutation	0,1		276,34	8,673200101
+200	100	Tournament(4)	One-Point	0,8	Insert	0,3		276,44	8,866025039
+200	100	Tournament(6)	One-Point	0,8	Swap Mutation	0,125		276,46	8,904403405
+200	100	Tournament(6)	One-Point	0,8	Swap Mutation	0,3		276,5	9,011659115
+200	100	Tournament(6)	One-Point	0,8	Scramble Mutation	0,1		276,52	8,144298619
+200	100	Tournament(4)	One-Point	0,8	Swap Mutation	0,1		276,68	8,658960677
+200	100	Tournament(4)	One-Point	0,8	Swap Mutation	0,125		276,76	8,981224861
+200	100	Tournament(4)	One-Point	0,8	Swap Mutation	0,3		276,82	8,682603296
+200	100	Tournament(6)	One-Point	0,8	Scramble Mutation	0,125		277	8,604649906
+200	100	Tournament(6)	One-Point	0,8	Scramble Mutation	0,3		277,16	8,558878431
+200	100	Tournament(4)	One-Point	0,8	Scramble Mutation	0,1		277,9	8,020598481
+200	100	Tournament(4)	One-Point	0,8	Scramble Mutation	0,125		278,02	8,213379329
+200	100	Tournament(4)	One-Point	0,8	Scramble Mutation	0,3		278,08	8,363826875
